@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.hrzafer.pars;
+package com.hrzafer.fatihparser;
 
 import com.hrzafer.fatihparser.BracketedTree;
 import com.hrzafer.fatihparser.restriction.ValidationRule;
@@ -188,74 +188,8 @@ public class BracketedTreeTest {
         
     }
 
-    /**
-     * Test of isValid method, of class BracketedTree.
-     */
-    @Test
-    public void testIsValid() {
-        System.out.println("isValid");
-        BracketedTree instance = null;
-        boolean expResult = false;
-        boolean result = instance.isValid();
-        assertEquals(expResult, result);
-        // TODO review the generated test code and remove the default call to fail.
-        fail("The test case is a prototype.");
-    }
+  
 
-    /**
-     * Test of setInvalidator method, of class BracketedTree.
-     */
-    @Test
-    public void testSetInvalidator() {
-        System.out.println("setInvalidator");
-        ValidationRule rule = null;
-        BracketedTree instance = null;
-        instance.setInvalidator(rule);
-        // TODO review the generated test code and remove the default call to fail.
-        fail("The test case is a prototype.");
-    }
-
-    /**
-     * Test of getInvalidatorDescription method, of class BracketedTree.
-     */
-    @Test
-    public void testGetInvalidatorDescription() {
-        System.out.println("getInvalidatorDescription");
-        BracketedTree instance = null;
-        String expResult = "";
-        String result = instance.getInvalidatorDescription();
-        assertEquals(expResult, result);
-        // TODO review the generated test code and remove the default call to fail.
-        fail("The test case is a prototype.");
-    }
-
-    /**
-     * Test of toString method, of class BracketedTree.
-     */
-    @Test
-    public void testToString() {
-        System.out.println("toString");
-        BracketedTree instance = null;
-        String expResult = "";
-        String result = instance.toString();
-        assertEquals(expResult, result);
-        // TODO review the generated test code and remove the default call to fail.
-        fail("The test case is a prototype.");
-    }
-
-    /**
-     * Test of print method, of class BracketedTree.
-     */
-    @Test
-    public void testPrint() {
-        System.out.println("print");
-        BracketedTree instance = null;
-        String expResult = "";
-        String result = instance.print();
-        assertEquals(expResult, result);
-        // TODO review the generated test code and remove the default call to fail.
-        fail("The test case is a prototype.");
-    }
 
     
 
