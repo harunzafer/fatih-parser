@@ -1,0 +1,845 @@
+Pre
+ VP
+    
+Pre
+ VP
+ Que
+    
+Pre
+ NP
+ Que
+    
+Pre
+  pre 
+    
+Pre
+  pre 
+ Que
+    
+Pre
+ NP
+  aux
+    
+Pre
+ NP
+  loc
+  aux
+    
+Pre
+ AP
+  aux
+    
+Pre
+ NP
+ Prs
+    
+Pre
+ NP
+ Prs
+  aux
+    
+Pre
+ NP
+  aux
+ Prs
+    
+Pre
+ NP
+  loc
+ Prs
+  aux
+    
+Pre
+ NP
+  loc
+  aux
+ Prs
+    
+
+    
+	
+	
+Que
+  que
+    
+Que
+ Que
+  aux
+    
+Que
+ Que
+ Prs
+    
+	
+
+    
+Sub
+ NP
+  cm
+ Sub
+    
+Sub
+ NP
+    
+    
+
+    
+IObj
+ NP
+    
+DObj
+ NP
+  acc
+    
+DObj
+ NP
+  acc
+  cm
+ DObj
+    
+    
+
+    
+Comp
+ NP
+  dat
+    
+Comp
+ NP
+  loc
+    
+Comp
+ NP
+  abl
+    
+Comp
+ NP
+  dat
+  cm
+ Comp
+    
+Comp
+ NP
+  loc
+  cm
+ Comp
+    
+Comp
+ NP
+  abl
+  cm
+ Comp
+    
+    
+
+    
+Adv
+ AP
+    
+    
+
+    
+Excl
+ IP
+    
+    
+
+
+
+
+    
+NP
+  noun
+    
+NP
+  pron
+    
+NP
+  prop
+    
+NP
+  adj
+    
+NP
+  noun
+  plu
+    
+NP
+  noun
+  +lUk
+    
+NP
+  adj
+  +lUk
+    
+NP
+  adj
+  plu
+    
+NP
+  prop
+  plu
+    
+NP
+ NP
+ Poss
+    
+NP
+ NP
+  gen
+  rel
+    
+    
+
+    
+JP
+  adj
+    
+JP
+  adv
+ JP
+    
+JP
+ NP
+  +lU
+    
+JP
+ NP
+  +sUz
+    
+JP
+ NP
+  loc
+  rel
+    
+JP
+ NP
+  +lUk
+    
+JP
+  pron
+  gen
+    
+    
+
+    
+AP
+  adv
+    
+AP
+ NP
+  abl
+  adv
+    
+AP
+ VAG
+    
+    
+
+    
+VP
+  verb
+    
+VP
+  adj
+  +lAþ
+    
+VP
+  noun
+  +lAþ
+    
+VP
+  verb
+  psv
+    
+VP
+ VP
+  neg
+    
+VP
+ VP
+  tense
+    
+VP
+ VP
+ Prs
+    
+VP
+ VP
+  aux
+    
+VP
+ VP
+  mood
+    
+    
+	
+	
+XVP
+  auxv
+    
+XVP
+  auxv
+  psv
+    
+XVP
+ XVP
+  neg
+    
+XVP
+ XVP
+  tense
+    
+XVP
+ XVP
+ Prs
+    
+XVP
+ XVP
+  aux
+    
+XVP
+ XVP
+  mood
+    
+    
+
+    
+VJ
+ VP
+  +An
+    
+VJ
+ VP
+  +AcAk
+    
+VJ
+ VP
+  +mUþ
+    
+VJ
+ VP
+  +DUk
+    
+    
+
+    
+VN
+ VP
+  +mAk
+    
+VN
+ VP
+  +mA
+    
+VN
+ VP
+  +Iþ
+    
+    
+	
+    
+VA
+ VP
+  +ken
+    
+VA
+ VP
+  +UncA
+    
+VA
+ VP
+  +ArAk
+    
+VA
+ VP
+  +Up
+    
+    
+
+    
+IP
+  intj
+  ex
+    
+IP
+  noun
+  ex
+    
+IP
+ VP
+  ex
+    
+IP
+ IG
+    
+    
+
+
+
+    
+NC
+ NP
+ NP
+ Poss
+    
+NC
+ NP
+  gen
+ NP
+ Poss
+    
+		
+NC
+ NP
+  gen
+ NC
+    
+		
+NC	
+ NP
+  gen
+  cm
+ NC
+    
+NC	
+ NC
+  cm
+ NP
+ Poss
+    
+NC	
+ NP
+  cm
+ NC
+    
+NP
+ NC
+    
+    
+
+    
+JC
+ JP
+ NP
+    
+JC
+  adv
+  adj
+    
+JC
+ JP
+  cm
+ JC
+    
+JC
+ JC
+  cm
+ NP
+    
+NP
+ JC
+    
+    
+
+	
+NP
+ VJG
+    
+JP
+ VJG
+    
+JP
+ VJG
+ Poss
+         --
+AP
+ VJG
+    
+VJG
+ VJ
+    
+VJG
+ IObj
+ VJ
+    
+VJG
+ Sub
+ Poss
+ VJG
+    
+VJG
+ VJG
+ Sub
+         --
+VJG
+ DObj
+ VJG
+    
+VJG
+ VJG
+ DObj
+    
+VJG
+ VJG
+ Comp
+    
+VJG
+ Comp
+ VJG
+    
+VJG
+ VJG
+ Adv
+    
+VJG
+ Adv
+ VJG
+    
+
+
+    
+NP
+ VNG
+    
+VNG
+ VN
+    
+VNG
+ IObj
+ VN
+    
+VNG
+ Sub
+ VNG
+        
+VNG
+ VNG
+ Sub
+         --
+VNG
+ DObj
+ VNG
+    
+VNG
+ VNG
+ DObj
+    
+VNG
+ VNG
+ Comp
+    
+VNG
+ Comp
+ VNG
+    
+VNG
+ VNG
+ Adv
+    
+VNG
+ Adv
+ VNG
+    
+    
+
+    
+AP
+ VAG
+    
+VAG
+ VA
+    
+VAG
+ IObj
+ VA
+    
+VAG
+ Sub
+ VAG
+    
+VAG
+ VAG
+ Sub
+    
+VAG
+ DObj
+ VAG
+    
+VAG
+ VAG
+ DObj
+    
+VAG
+ VAG
+ Comp
+    
+VAG
+ Comp
+ VAG
+    
+VAG
+ VAG
+ Adv
+    
+VAG
+ Adv
+ VAG
+    
+    
+    
+    
+RG
+  base
+  redup
+    
+		
+NP
+ RG
+    
+
+
+    
+PG 
+ NP
+  posp
+    
+PG 
+ NP
+  dat
+  posp
+    
+PG 
+ NP
+  gen
+  posp
+    
+PG
+ NP
+  abl
+  posp
+    
+NP
+ PG
+    
+JP
+ PG
+    
+AP
+ PG
+    
+    
+
+    
+CG
+ NP
+  conj
+ NP
+    
+CG 
+ NP
+  ins
+ NP
+    
+CG
+ NP
+  cm
+ CG
+    
+CG
+  conj2
+ NP
+  conj2
+ NP
+    
+CG
+ NP
+  2conj
+ NP
+  2conj
+    
+NP
+ CG
+    
+    
+
+    
+TG
+  prop
+  ttl
+    
+TG
+  ttl
+  prop
+    
+TG
+ PNG
+  ttl
+    
+TG
+  ttl
+ PNG
+    
+NP
+ TG
+    
+    
+
+    
+PNG
+  prop
+  prop
+    
+PNG
+ PNG
+  prop
+    
+NP
+ PNG
+    
+    
+
+    
+IG
+  intj
+ NP
+    
+IG
+ IG
+  cm
+ NP
+    
+
+    
+
+    
+NG
+  num
+  num
+    
+NG
+ NG
+  num
+    
+JP
+ NG
+    
+NP
+ NG
+    
+		
+
+    
+
+    
+CV
+ NP
+ XVP
+    
+    
+
+
+
+    
+Poss
+  p1s
+    
+Poss
+  p2s
+    
+Poss
+  p3s
+    
+Poss
+  p1p
+    
+Poss
+  p2p
+    
+Poss
+  p3p
+    
+    
+
+    
+Prs
+  1sg
+    
+Prs
+  2sg
+    
+Prs
+  3sg
+    
+Prs
+  1pl
+    
+Prs
+  2pl
+    
+Prs
+  3pl
+    
+    
+
+
+
+S
+ SS
+    
+S
+ S
+  cm
+ SS
+    
+S
+ S
+  conj
+ SS
+    
+SS
+ Pre
+    
+SS
+ IObj
+ Pre
+    
+SS
+ Sub
+ SS
+    
+SS
+ SS
+ Sub
+    
+SS
+ DObj
+ SS
+    
+SS
+ SS
+ DObj
+    
+SS
+ SS
+ Comp
+    
+SS
+ Comp
+ SS
+    
+SS
+ SS
+ Adv
+    
+SS
+ Adv
+ SS
+    
+SS
+ SS
+ Excl
+    
+SS
+ Excl
+ SS

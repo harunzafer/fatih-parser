@@ -1,0 +1,39 @@
+    uzun bir gecenin bestesidir
+    dönülmez akşamın ufkundayız
+açılır
+    sürer
+    anlattı
+    git
+    saklıdır
+    anlattı
+    gittim mi
+    geldin mi
+    müdür müyüm
+    müdür müdür
+#Geniş zaman bildirme
+    öğrenciyim
+    öğrencisin
+    öğrenci
+    öğrenciyiz
+    öğrencisiniz
+    öğrenciler
+
+#Görülen Geçmiş zaman bildirme
+    öğrenciydim
+    öğrenciydin
+    öğrenciydi
+    öğrenciydik
+    öğrenciydiniz
+    öğrenciydiler
+
+#Öğrenilen Geçmiş Zamanda bildirme
+    öğrenciymişim
+    öğrenciymişsin
+    öğrenciymiş
+    öğrenciymişsiniz
+    öğrenciysem
+
+    öğrencimizdin
+    öğrencidir
+    öğrenciyimdir
+

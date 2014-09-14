@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rules language="Turkish">
+
+        <!-- Yüklem Nesne Uyumu Kuralları -->
+	<rule scope="SS" ignore="VJG, VNG, VAG">
+		<description>Yüklem geçişiz fiil ise nesne yoktur</description>
+		<status type="cond" cat="Pre"	op="hasNonTransitiveVerb"/>
+		<status type="rest" cat="IObj"	op="notExists"/>
+		<status type="rest" cat="DObj"	op="notExists"/>		
+	</rule>
+        <rule scope="SS">
+            <description>İsim cümlesinde nesne olmaz</description>
+            <status type="cond" cat="Pre"	op="startsWith" str="[Pre[NP"/>
+            <status type="rest" cat="IObj"	op="notExists"/>
+            <status type="rest" cat="DObj"	op="notExists"/>
+	</rule>
+        <rule scope="SS" ignore="VJG, VNG, VAG">
+                <description>Yüklem edilgen ise nesne olmaz</description>
+		<status type="cond" cat="Pre"	op="includes" str="[psv["/>
+		<status type="rest" cat="IObj"	op="notExists"/>
+		<status type="rest" cat="DObj"	op="notExists"/>
+	</rule>
+        <rule scope="SS" ignore="VJG, VNG, VAG">
+		<description>Belirtili ve Belirtisiz nesne bir arada olamaz</description>
+		<status type="cond" cat="IObj"	op="exists"/>
+		<status type="rest" cat="DObj"	op="notExists"/>
+	</rule>
+        <rule scope="VJG">
+                <description>VJG Yüklem geçişiz fiil ise nesne yoktur</description>
+		<status type="cond" cat="VJ"	op="hasNonTransitiveVerb"/>
+		<status type="rest" cat="IObj"	op="notExists"/>
+		<status type="rest" cat="DObj"	op="notExists"/>
+	</rule>
+	<rule scope="VNG">
+                <description>VNG Yüklem geçişiz fiil ise nesne yoktur</description>
+		<status type="cond" cat="VN"	op="hasNonTransitiveVerb"/>
+		<status type="rest" cat="IObj"	op="notExists"/>
+		<status type="rest" cat="DObj"	op="notExists"/>
+	</rule>
+	<rule scope="VAG">
+                <description>VAG Yüklem geçişiz fiil ise nesne yoktur</description>
+		<status type="cond" cat="VA"	op="hasNonTransitiveVerb"/>
+		<status type="rest" cat="IObj"	op="notExists"/>
+		<status type="rest" cat="DObj"	op="notExists"/>
+	</rule>
+        <rule scope="SS">
+		<description>Bir zamir belirtisiz nesne olamaz</description>
+		<status type="cond" cat="IObj"	op="exists"/>
+		<status type="rest" cat="IObj"	op="notIncludes"  str="[IObj[NP[pron["/>
+	</rule>
+        <rule scope="SS">
+                <description>-I, -U eki almış bir isim belirtisiz nesne olamaz</description>
+		<status type="cond" cat="IObj"	op="startsWith" str="[IObj[NP[NP[noun"/>
+		<status type="rest" cat="IObj"	op="notIncludes"  str="[Poss[p3s["/>
+	</rule>
+
+
+        <!-- Öge Sayısı Kuralları -->
+	<rule scope="SS" recursive="false" ignore="VJG, VNG, VAG">
+		<description>Birden fazla özne olamaz</description>
+		<status type="rest" cat="SS" op="notMoreThanOne" str="[Sub["/>
+	</rule>
+        <rule scope="SS" recursive="false" ignore="VJG, VNG, VAG">
+		<description>Birden fazla nesne olamaz</description>
+		<status type="rest" cat="SS" op="notMoreThanOne" str="[IObj["/>
+                <status type="rest" cat="SS" op="notMoreThanOne" str="[DObj["/>
+	</rule>
+	<rule scope="VAG">
+		<description>Birden fazla özne olamaz</description>
+		<status type="rest" cat="VAG" op="notMoreThanOne" str="[Sub["/>		
+	</rule>
+
+        <!-- Özne Yüklem Uyumu Kuralları -->
+	<rule scope="SS" ignore="VJG, VNG, VAG">
+		<description>Özne zamir değilse Yüklem şahıs eki almamalıdır</description>
+		<status type="cond" cat="Sub"	op="notIncludes" str="[Sub[NP[pron["/>
+		<status type="rest" cat="Pre"	op="notIncludes"  str="[Prs["/>
+	</rule>
+
+	<rule scope="SS" ignore="VJG, VNG, VAG">
+		<description>Özne SEN zamiri ise yüklem 2. tekil şahıs eki almalıdır</description>
+		<status type="cond" cat="Sub"	op="equals" str="[Sub[NP[pron[sen]]]]"/>
+		<status type="rest" cat="Pre"	op="includes"  str="[Prs[2sg["/>
+	</rule>
+	<rule scope="SS" ignore="VJG, VNG, VAG">
+		<description>Özne O zamiri ise yüklem 3. tekil şahıs eki almalıdır</description>
+		<status type="cond" cat="Sub"	op="equals" str="[Sub[NP[pron[o]]]]"/>
+		<status type="rest" cat="Pre"	op="notIncludes"  str="[Prs["/>
+	</rule>
+	<rule scope="SS" ignore="VJG, VNG, VAG">
+		<description>Özne BİZ zamiri ise yüklem 1. çoğul şahıs eki almalıdır</description>
+		<status type="cond" cat="Sub"	op="equals" str="[Sub[NP[pron[biz]]]]"/>
+		<status type="rest" cat="Pre"	op="includes"  str="[Prs[1pl["/>
+	</rule>
+	<rule scope="SS" ignore="VJG, VNG, VAG">
+		<description>Özne SİZ zamiri ise yüklem 2. çoğul şahıs eki almalıdır</description>
+		<status type="cond" cat="Sub"	op="equals" str="[Sub[NP[pron[siz]]]]"/>
+		<status type="rest" cat="Pre"	op="includes"  str="[Prs[2pl["/>
+	</rule>
+	<rule scope="SS" ignore="VJG, VNG, VAG">
+		<description>Özne ONLAR zamiri ise yüklem 3. çoğul veya tekil şahıs eki almalıdır</description>
+		<status type="cond" cat="Sub"	op="equals" str="[Sub[NP[pron[onlar]]]]"/>
+		<status type="rest" cat="Pre"	op="notIncludes"  str="[Prs[1sg["/>
+		<status type="rest" cat="Pre"	op="notIncludes"  str="[Prs[2sg["/>
+		<status type="rest" cat="Pre"	op="notIncludes"  str="[Prs[1pl["/>
+		<status type="rest" cat="Pre"	op="notIncludes"  str="[Prs[2pl["/>
+	</rule>
+
+        <!-- İsim Tamlaması Kuralları -->
+	<rule scope="NC" recursive="true">
+		<description>İsim tamlamasında tamlayan iyelik eki ile bitemez</description>
+		<status type="cond" cat="NP"	op="includes" str="[Poss["/>
+		<status type="rest" cat="gen"	op="exists"/>
+	</rule>
+	<rule scope="NC" recursive="true">
+		<description>Tamlayanda -ların yoksa tamlananda -ları olamaz</description>
+		<status type="cond" cat="Poss"	op="startsWith" str="[Poss[p3p["/>
+		<status type="rest" cat="NP"	op="includes"  str="[plu["/>
+	</rule>
+	<rule scope="NC" recursive="true">
+		<description>Belirtisiz isim tamlamasında tamlayan sıfat olamaz</description>
+		<status type="cond" cat="gen"	op="notExists"/>
+		<status type="rest" cat="NP"	op="notIncludes"  str="[NP[adj["/>
+	</rule>
+        <rule scope="NC" recursive="true">
+		<description>Belirtisiz isim tamlamasında tamlayan zamir olamaz</description>
+		<status type="cond" cat="gen"	op="notExists"/>
+		<status type="rest" cat="NP"	op="notIncludes"  str="[NP[pron["/>
+	</rule>
+        <rule scope="JC" recursive="true">
+		<description>İki sıfat ile sıfat tamlaması olamaz</description>
+		<status type="rest" cat="NP"	op="notIncludes"  str="[NP[adj["/>
+	</rule>
+        
+</rules>

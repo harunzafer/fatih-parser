@@ -1,0 +1,853 @@
+<?xml version="1.0"?>
+<grammar name="turkish">
+
+<!-- START : Constituents - Ögeler -->
+    <!-- START  : Predicate - Yüklem -->
+    <rule category="Pre">
+        <category name="VP"/>
+    </rule>
+    <rule category="Pre">
+        <category name="VP"/>
+        <category name="Que"/>
+    </rule>
+    <rule category="Pre">
+        <category name="NP"/>
+        <category name="Que"/>
+    </rule>
+    <rule category="Pre">
+        <category terminal="true" name="pre"/> <!-- var, yok, değil -->
+    </rule>
+    <rule category="Pre">
+        <category terminal="true" name="pre"/> <!-- var, yok, değil -->
+        <category name="Que"/>
+    </rule>
+    <rule category="Pre">
+        <category name="NP"/>
+        <category terminal="true" name="aux"/>
+    </rule>
+    <rule category="Pre">
+        <category name="NP"/>
+        <category terminal="true" name="loc"/>
+        <category terminal="true" name="aux"/>
+    </rule>
+    <rule category="Pre">
+        <category name="AP"/>
+        <category terminal="true" name="aux"/>
+    </rule>
+    <rule category="Pre">
+        <category name="NP"/>
+        <category name="Prs"/>
+    </rule>
+    <rule category="Pre">
+        <category name="NP"/>
+        <category name="Prs"/>
+        <category terminal="true" name="aux"/>
+    </rule>
+    <rule category="Pre">
+        <category name="NP"/>
+        <category terminal="true" name="aux"/>
+        <category name="Prs"/>
+    </rule>
+    <rule category="Pre">
+        <category name="NP"/>
+        <category terminal="true" name="loc"/>
+        <category name="Prs"/>
+        <category terminal="true" name="aux"/>
+    </rule>
+    <rule category="Pre">
+        <category name="NP"/>
+        <category terminal="true" name="loc"/>
+        <category terminal="true" name="aux"/>
+        <category name="Prs"/>
+    </rule>
+
+    <!-- END    : Predicate - Yüklem -->
+	
+	<!-- START  : Question - Soru -->
+    <rule category="Que">
+        <category terminal="true" name="que"/>
+    </rule>
+    <rule category="Que">
+        <category name="Que"/>
+        <category terminal="true" name="aux"/>
+    </rule>
+    <rule category="Que">
+        <category name="Que"/>
+        <category name="Prs"/>
+    </rule>
+	<!-- END    : Question - Soru -->
+
+    <!-- START  : Subject - Özne -->
+    <rule category="Sub">
+        <category name="NP"/>
+        <category terminal="true" name="cm"/>
+        <category name="Sub"/>
+    </rule>
+    <rule category="Sub">
+        <category name="NP"/>
+    </rule>
+    <!-- END    : Subject - Özne -->
+
+    <!-- START  : Object - Nesne -->
+    <rule category="IObj">
+        <category name="NP"/>
+    </rule>
+    <rule category="DObj">
+        <category name="NP"/>
+        <category terminal="true" name="acc"/>
+    </rule>
+    <rule category="DObj">
+        <category name="NP"/>
+        <category terminal="true" name="acc"/>
+        <category terminal="true" name="cm"/>
+        <category name="DObj"/>
+    </rule>
+    <!-- END    : Object - Nesne -->
+
+    <!-- START  : Complement - Yer Tamlayıcısı -->
+    <rule category="Comp">
+        <category name="NP"/>
+        <category terminal="true" name="dat"/>
+    </rule>
+    <rule category="Comp">
+        <category name="NP"/>
+        <category terminal="true" name="loc"/>
+    </rule>
+    <rule category="Comp">
+        <category name="NP"/>
+        <category terminal="true" name="abl"/>
+    </rule>
+    <rule category="Comp">
+        <category name="NP"/>
+        <category terminal="true" name="dat"/>
+        <category terminal="true" name="cm"/>
+        <category name="Comp"/>
+    </rule>
+    <rule category="Comp">
+        <category name="NP"/>
+        <category terminal="true" name="loc"/>
+        <category terminal="true" name="cm"/>
+        <category name="Comp"/>
+    </rule>
+    <rule category="Comp">
+        <category name="NP"/>
+        <category terminal="true" name="abl"/>
+        <category terminal="true" name="cm"/>
+        <category name="Comp"/>
+    </rule>
+    <!-- END    : Complement - Yer Tamlayıcısı -->
+
+    <!-- START  : Adverbial Complement - Zarf Tümleci -->
+    <rule category="Adv">
+        <category name="AP"/>
+    </rule>
+    <!-- END    : Adverbial Complement - Zarf Tümleci -->
+
+    <!-- START  : Excluded Constituent - Nesne -->
+    <rule category="Excl">
+        <category name="IP"/>
+    </rule>
+    <!-- END    : Excluded Constituent - Nesne -->
+<!-- END : Constituents - Ögeler -->
+
+
+<!-- START : Elements - Unsurlar -->
+    <!-- START  : Noun Phrase - İsim Unsuru -->
+    <rule category="NP">
+        <category terminal="true" name="noun"/>
+    </rule>
+    <rule category="NP">
+        <category terminal="true" name="pron"/>
+    </rule>
+    <rule category="NP">
+        <category terminal="true" name="prop"/>
+    </rule>
+    <rule category="NP">
+        <category terminal="true" name="adj"/>
+    </rule>
+    <rule category="NP">
+        <category terminal="true" name="noun"/>
+        <category terminal="true" name="plu"/>
+    </rule>
+    <rule category="NP">
+        <category terminal="true" name="noun"/>
+        <category terminal="true" name="+lUk"/>
+    </rule>
+    <rule category="NP">
+        <category terminal="true" name="adj"/>
+        <category terminal="true" name="+lUk"/>
+    </rule>
+    <rule category="NP">
+        <category terminal="true" name="adj"/>
+        <category terminal="true" name="plu"/>
+    </rule>
+    <rule category="NP">
+        <category terminal="true" name="prop"/>
+        <category terminal="true" name="plu"/>
+    </rule>
+    <rule category="NP">
+        <category name="NP"/>
+        <category name="Poss"/>
+    </rule>
+    <rule category="NP">
+        <category name="NP"/>
+        <category terminal="true" name="gen"/>
+        <category terminal="true" name="rel"/>
+    </rule>
+    <!-- END    : Noun Phrase - İsim Unsuru -->
+
+    <!-- START  : Adjective Phrase - Sıfat Unsuru -->
+    <rule category="JP">
+        <category terminal="true" name="adj"/>
+    </rule>
+    <rule category="JP">
+        <category terminal="true" name="adv"/>
+        <category name="JP"/>
+    </rule>
+    <rule category="JP">
+        <category name="NP"/>
+        <category terminal="true" name="+lU"/>
+    </rule>
+    <rule category="JP">
+        <category name="NP"/>
+        <category terminal="true" name="+sUz"/>
+    </rule>
+    <rule category="JP">
+        <category name="NP"/>
+        <category terminal="true" name="loc"/>
+        <category terminal="true" name="rel"/>
+    </rule>
+    <rule category="JP">
+        <category name="NP"/>
+        <category terminal="true" name="+lUk"/>
+    </rule>
+    <rule category="JP">
+        <category terminal="true" name="pron"/>
+        <category terminal="true" name="gen"/>
+    </rule>
+    <!-- END    : Adjective Phrase - Sıfat Unsuru -->
+
+    <!-- START  : Adverbial Phrase - Zarf Unsuru -->
+    <rule category="AP">
+        <category terminal="true" name="adv"/>
+    </rule>
+    <rule category="AP">
+        <category name="NP"/>
+        <category terminal="true" name="abl"/>
+        <category terminal="true" name="adv"/>
+    </rule>
+    <rule category="AP">
+        <category name="VAG"/>
+    </rule>
+    <!-- END    : Adverbial Phrase - Zarf Unsuru -->
+
+    <!-- START  : Verb Phrase - Fiil Unsuru -->
+    <rule category="VP">
+        <category terminal="true" name="verb"/>
+    </rule>
+    <rule category="VP">
+        <category terminal="true" name="adj"/>
+        <category terminal="true" name="+lAş"/>
+    </rule>
+    <rule category="VP">
+        <category terminal="true" name="noun"/>
+        <category terminal="true" name="+lAş"/>
+    </rule>
+    <rule category="VP">
+        <category terminal="true" name="verb"/>
+        <category terminal="true" name="psv"/>
+    </rule>
+    <rule category="VP">
+        <category name="VP"/>
+        <category terminal="true" name="neg"/>
+    </rule>
+    <rule category="VP">
+        <category name="VP"/>
+        <category terminal="true" name="tense"/>
+    </rule>
+    <rule category="VP">
+        <category name="VP"/>
+        <category name="Prs"/>
+    </rule>
+    <rule category="VP">
+        <category name="VP"/>
+        <category terminal="true" name="aux"/>
+    </rule>
+    <rule category="VP">
+        <category name="VP"/>
+        <category terminal="true" name="mood"/>
+    </rule>
+    <!-- END    : Verb Phrase - Fiil Unsuru -->
+	
+	<!-- START  : Aux Verb Phrase - Yardımcı Fiil Unsuru -->
+    <rule category="XVP">
+        <category terminal="true" name="auxv"/>
+    </rule>
+    <rule category="XVP">
+        <category terminal="true" name="auxv"/>
+        <category terminal="true" name="psv"/>
+    </rule>
+    <rule category="XVP">
+        <category name="XVP"/>
+        <category terminal="true" name="neg"/>
+    </rule>
+    <rule category="XVP">
+        <category name="XVP"/>
+        <category terminal="true" name="tense"/>
+    </rule>
+    <rule category="XVP">
+        <category name="XVP"/>
+        <category name="Prs"/>
+    </rule>
+    <rule category="XVP">
+        <category name="XVP"/>
+        <category terminal="true" name="aux"/>
+    </rule>
+    <rule category="XVP">
+        <category name="XVP"/>
+        <category terminal="true" name="mood"/>
+    </rule>
+    <!-- END    : Aux Verb Phrase - Yardımcı Fiil Unsuru -->
+
+    <!-- START  : Verbal Adjective - Sıfat-Fiil Unsuru -->
+    <rule category="VJ">
+        <category name="VP"/>
+        <category terminal="true" name="+An"/>
+    </rule>
+    <rule category="VJ">
+        <category name="VP"/>
+        <category terminal="true" name="+AcAk"/>
+    </rule>
+    <rule category="VJ">
+        <category name="VP"/>
+        <category terminal="true" name="+mUş"/>
+    </rule>
+    <rule category="VJ">
+        <category name="VP"/>
+        <category terminal="true" name="+DUk"/>
+    </rule>
+    <!-- END    : Verbal Adjective - Sıfat-Fiil Unsuru -->
+
+    <!-- START  : Verbal Noun - İsim-Fiil Unsuru -->
+    <rule category="VN">
+        <category name="VP"/>
+        <category terminal="true" name="+mAk"/>
+    </rule>
+    <rule category="VN">
+        <category name="VP"/>
+        <category terminal="true" name="+mA"/>
+    </rule>
+    <rule category="VN">
+        <category name="VP"/>
+        <category terminal="true" name="+Iş"/>
+    </rule>
+    <!-- END    : Verbal Noun - İsim-Fiil Unsuru -->
+	
+    <!-- START  : Verbal Adverb - Zarf-Fiil Unsuru -->
+    <rule category="VA">
+        <category name="VP"/>
+        <category terminal="true" name="+ken"/>
+    </rule>
+    <rule category="VA">
+        <category name="VP"/>
+        <category terminal="true" name="+UncA"/>
+    </rule>
+    <rule category="VA">
+        <category name="VP"/>
+        <category terminal="true" name="+ArAk"/>
+    </rule>
+    <rule category="VA">
+        <category name="VP"/>
+        <category terminal="true" name="+Up"/>
+    </rule>
+    <!-- END    : Verbal Adverb - Zarf-Fiil Unsuru -->
+
+    <!-- START  : Interjection Phrase - Ünlem Unsuru -->
+    <rule category="IP">
+        <category terminal="true" name="intj"/>
+        <category terminal="true" name="ex"/>
+    </rule>
+    <rule category="IP">
+        <category terminal="true" name="noun"/>
+        <category terminal="true" name="ex"/>
+    </rule>
+    <rule category="IP">
+        <category name="VP"/>
+        <category terminal="true" name="ex"/>
+    </rule>
+    <rule category="IP">
+        <category name="IG"/>
+    </rule>
+    <!-- END    : Interjection Phrase - Ünlem Unsuru -->
+<!-- END : Elements - Unsurlar -->
+
+<!-- START  : Word Groups - Kelime Grupları -->
+    <!-- START : Noun Complement - İsim Tamlaması -->
+    <rule category="NC">
+        <category name="NP"/>
+        <category name="NP"/>
+        <category name="Poss"/>
+    </rule>
+    <rule category="NC">
+        <category name="NP"/>
+        <category terminal="true" name="gen"/>
+        <category name="NP"/>
+        <category name="Poss"/>
+    </rule>
+		<!-- türbenin çini bahçesi, benim çamaşır makinem -->
+    <rule category="NC">
+        <category name="NP"/>
+        <category terminal="true" name="gen"/>
+        <category name="NC"/>
+    </rule>
+		<!-- virgül kuralları -->
+    <rule category="NC">	<!-- evin, arabanın anahtarı -->
+        <category name="NP"/>
+        <category terminal="true" name="gen"/>
+        <category terminal="true" name="cm"/>
+        <category name="NC"/>
+    </rule>
+    <rule category="NC">	<!-- evin kapısı, penceresi veya ev kapısı, penceresi-->
+        <category name="NC"/>
+        <category terminal="true" name="cm"/>
+        <category name="NP"/>
+        <category name="Poss"/>
+    </rule>
+    <rule category="NC">	<!-- ev, araba kapısı -->
+        <category name="NP"/>
+        <category terminal="true" name="cm"/>
+        <category name="NC"/>
+    </rule>
+    <rule category="NP">
+        <category name="NC"/>
+    </rule>
+    <!-- END : Noun Complement - İsim Tamlaması -->
+
+    <!-- START : Adjective Complement - Sıfat Tamlaması -->
+    <rule category="JC">
+        <category name="JP"/>
+        <category name="NP"/>
+    </rule>
+    <rule category="JC">
+        <category terminal="true" name="adv"/>
+        <category terminal="true" name="adj"/>
+    </rule>
+    <rule category="JC">
+        <category name="JP"/>
+        <category terminal="true" name="cm"/>
+        <category name="JC"/>
+    </rule>
+    <rule category="JC">
+        <category name="JC"/>
+        <category terminal="true" name="cm"/>
+        <category name="NP"/>
+    </rule>
+    <rule category="NP">
+        <category name="JC"/>
+    </rule>
+    <!-- END : Adjective Complement - Sıfat Tamlaması -->
+
+	<!-- START : Verbal Adjective Group - Sıfat-Fiil Grubu -->
+    <rule category="NP">
+        <category name="VJG"/>
+    </rule>
+    <rule category="JP">
+        <category name="VJG"/>
+    </rule>
+        <!-- <rule category="JP">
+            <category name="VJG"/>
+            <category name="Poss"/>
+        </rule> -->
+    <rule category="AP">
+        <category name="VJG"/>
+    </rule>
+    <rule category="VJG">
+        <category name="VJ"/>
+    </rule>
+    <rule category="VJG">
+        <category name="IObj"/>
+        <category name="VJ"/>
+    </rule>
+    <rule category="VJG">
+        <category name="Sub"/>
+        <category name="Poss"/>
+        <category name="VJG"/>
+    </rule>
+        <!-- <rule category="VJG">
+                <category name="VJG"/>
+                <category name="Sub"/>
+        </rule> -->
+    <rule category="VJG">
+        <category name="DObj"/>
+        <category name="VJG"/>
+    </rule>
+    <rule category="VJG">
+        <category name="VJG"/>
+        <category name="DObj"/>
+    </rule>
+    <rule category="VJG">
+        <category name="VJG"/>
+        <category name="Comp"/>
+    </rule>
+    <rule category="VJG">
+        <category name="Comp"/>
+        <category name="VJG"/>
+    </rule>
+    <rule category="VJG">
+        <category name="VJG"/>
+        <category name="Adv"/>
+    </rule>
+    <rule category="VJG">
+        <category name="Adv"/>
+        <category name="VJG"/>
+    </rule>
+<!-- END   : Verbal Adjective Group - Sıfat-Fiil Grubu -->
+
+    <!-- START   : Verbal Noun Group - İsim-Fiil Grubu -->
+    <rule category="NP">
+        <category name="VNG"/>
+    </rule>
+    <rule category="VNG">
+        <category name="VN"/>
+    </rule>
+    <rule category="VNG">
+        <category name="IObj"/>
+        <category name="VN"/>
+    </rule>
+       <!--  <rule category="VNG">
+                <category name="Sub"/>
+                <category name="VNG"/>
+        </rule>
+        <rule category="VNG">
+                <category name="VNG"/>
+                <category name="Sub"/>
+        </rule> -->
+    <rule category="VNG">
+        <category name="DObj"/>
+        <category name="VNG"/>
+    </rule>
+    <rule category="VNG">
+        <category name="VNG"/>
+        <category name="DObj"/>
+    </rule>
+    <rule category="VNG">
+        <category name="VNG"/>
+        <category name="Comp"/>
+    </rule>
+    <rule category="VNG">
+        <category name="Comp"/>
+        <category name="VNG"/>
+    </rule>
+    <rule category="VNG">
+        <category name="VNG"/>
+        <category name="Adv"/>
+    </rule>
+    <rule category="VNG">
+        <category name="Adv"/>
+        <category name="VNG"/>
+    </rule>
+    <!-- END   : Verbal Noun Group - İsim-Fiil Grubu -->
+
+    <!-- START   : Verbal Adverb Group - Zarf-Fiil Grubu -->
+    <rule category="AP">
+        <category name="VAG"/>
+    </rule>
+    <rule category="VAG">
+        <category name="VA"/>
+    </rule>
+    <rule category="VAG">
+        <category name="IObj"/>
+        <category name="VA"/>
+    </rule>
+    <rule category="VAG">
+        <category name="Sub"/>
+        <category name="VAG"/>
+    </rule>
+    <rule category="VAG">
+        <category name="VAG"/>
+        <category name="Sub"/>
+    </rule>
+    <rule category="VAG">
+        <category name="DObj"/>
+        <category name="VAG"/>
+    </rule>
+    <rule category="VAG">
+        <category name="VAG"/>
+        <category name="DObj"/>
+    </rule>
+    <rule category="VAG">
+        <category name="VAG"/>
+        <category name="Comp"/>
+    </rule>
+    <rule category="VAG">
+        <category name="Comp"/>
+        <category name="VAG"/>
+    </rule>
+    <rule category="VAG">
+        <category name="VAG"/>
+        <category name="Adv"/>
+    </rule>
+    <rule category="VAG">
+        <category name="Adv"/>
+        <category name="VAG"/>
+    </rule>
+    <!-- END   : Verbal Adverb Group - Zarf-Fiil Grubu -->
+    
+    <!-- START : Reduplication Group - Tekrar Grubu "base + reduplicant"-->
+    <rule category="RG">
+        <category terminal="true" name="base"/>
+        <category terminal="true" name="redup"/>
+    </rule>
+		<!-- Tekrar Grupları söz dizimi içinde isim, sıfat, zarf ve fiil görevi yaparlar -->
+    <rule category="NP">
+        <category name="RG"/>
+    </rule>
+<!-- END   : Reduplication Group - Tekrar Grubu -->
+
+    <!-- START : Postposition Group - Edat Grubu -->
+    <rule category="PG"> <!-- insan gibi -->
+        <category name="NP"/>
+        <category terminal="true" name="posp"/>
+    </rule>
+    <rule category="PG"> <!-- sana doğru -->
+        <category name="NP"/>
+        <category terminal="true" name="dat"/>
+        <category terminal="true" name="posp"/>
+    </rule>
+    <rule category="PG"> <!-- senin gibi -->
+        <category name="NP"/>
+        <category terminal="true" name="gen"/>
+        <category terminal="true" name="posp"/>
+    </rule>
+    <rule category="PG">
+        <category name="NP"/>
+        <category terminal="true" name="abl"/>
+        <category terminal="true" name="posp"/>
+    </rule>
+    <rule category="NP">
+        <category name="PG"/>
+    </rule>
+    <rule category="JP">
+        <category name="PG"/>
+    </rule>
+    <rule category="AP">
+        <category name="PG"/>
+    </rule>
+    <!-- END : Postposition Group - Edat Grubu -->
+
+    <!-- START : Conjunction Group - Bağlama Grubu -->
+    <rule category="CG">
+        <category name="NP"/>
+        <category terminal="true" name="conj"/>
+        <category name="NP"/>
+    </rule>
+    <rule category="CG"> <!-- annemle ben -->
+        <category name="NP"/>
+        <category terminal="true" name="ins"/>
+        <category name="NP"/>
+    </rule>
+    <rule category="CG">
+        <category name="NP"/>
+        <category terminal="true" name="cm"/>
+        <category name="CG"/>
+    </rule>
+    <rule category="CG">
+        <category terminal="true" name="conj2"/>
+        <category name="NP"/>
+        <category terminal="true" name="conj2"/>
+        <category name="NP"/>
+    </rule>
+    <rule category="CG">
+        <category name="NP"/>
+        <category terminal="true" name="2conj"/>
+        <category name="NP"/>
+        <category terminal="true" name="2conj"/>
+    </rule>
+    <rule category="NP">
+        <category name="CG"/>
+    </rule>
+    <!-- END : Conjunction Group - Bağlama Grubu -->
+
+    <!-- START : Title Group - Ünvan Grubu -->
+    <rule category="TG">
+        <category terminal="true" name="prop"/>
+        <category terminal="true" name="ttl"/>
+    </rule>
+    <rule category="TG">
+        <category terminal="true" name="ttl"/>
+        <category terminal="true" name="prop"/>
+    </rule>
+    <rule category="TG">
+        <category name="PNG"/>
+        <category terminal="true" name="ttl"/>
+    </rule>
+    <rule category="TG">
+        <category terminal="true" name="ttl"/>
+        <category name="PNG"/>
+    </rule>
+    <rule category="NP">
+        <category name="TG"/>
+    </rule>
+    <!-- END   : Title Group - Ünvan Grubu -->
+
+    <!-- START : Pesonal Name Group - Şahıs İsmi Grubu -->
+    <rule category="PNG">
+        <category terminal="true" name="prop"/>
+        <category terminal="true" name="prop"/>
+    </rule>
+    <rule category="PNG">
+        <category name="PNG"/>
+        <category terminal="true" name="prop"/>
+    </rule>
+    <rule category="NP">
+        <category name="PNG"/>
+    </rule>
+    <!-- END : Pesonal Name Group - Şahıs İsmi Grubu -->
+
+    <!-- START : Interjection Group - Ünlem Grubu -->
+    <rule category="IG">
+        <category terminal="true" name="intj"/>
+        <category name="NP"/>
+    </rule>
+    <rule category="IG">
+        <category name="IG"/>
+        <category terminal="true" name="cm"/>
+        <category name="NP"/>
+    </rule>
+
+    <!-- END   : Interjection Group - Ünlem Grubu -->
+
+    <!-- START : Number Group - Sayı Grubu -->
+    <rule category="NG">
+        <category terminal="true" name="num"/>
+        <category terminal="true" name="num"/>
+    </rule>
+    <rule category="NG">
+        <category name="NG"/>
+        <category terminal="true" name="num"/>
+    </rule>
+    <rule category="JP">
+        <category name="NG"/>
+    </rule>
+    <rule category="NP">
+        <category name="NG"/>
+    </rule>
+		
+
+    <!-- END : Number Group - Sayı Grubu -->
+
+    <!-- START : Compound Verb - Birleşik Fiil -->
+    <rule category="CV">
+        <category name="NP"/>
+        <category name="XVP"/>
+    </rule>
+    <!-- END : Compound Verb - Birleşik Fiil -->
+<!-- END    : Word Groups - Kelime Grupları -->
+
+<!-- START  : Suffix Groups - Ek Grupları -->
+    <!-- START: Possesive - İyelik (Sahiplik) Ekleri -->
+    <rule category="Poss">
+        <category terminal="true" name="p1s"/>
+    </rule>
+    <rule category="Poss">
+        <category terminal="true" name="p2s"/>
+    </rule>
+    <rule category="Poss">
+        <category terminal="true" name="p3s"/>
+    </rule>
+    <rule category="Poss">
+        <category terminal="true" name="p1p"/>
+    </rule>
+    <rule category="Poss">
+        <category terminal="true" name="p2p"/>
+    </rule>
+    <rule category="Poss">
+        <category terminal="true" name="p3p"/>
+    </rule>
+    <!-- END: Possesive - İyelik (Sahiplik) Ekleri -->
+
+    <!-- START: Personal Verb Suffixes -->
+    <rule category="Prs">
+        <category terminal="true" name="1sg"/>
+    </rule>
+    <rule category="Prs">
+        <category terminal="true" name="2sg"/>
+    </rule>
+    <rule category="Prs">
+        <category terminal="true" name="3sg"/>
+    </rule>
+    <rule category="Prs">
+        <category terminal="true" name="1pl"/>
+    </rule>
+    <rule category="Prs">
+        <category terminal="true" name="2pl"/>
+    </rule>
+    <rule category="Prs">
+        <category terminal="true" name="3pl"/>
+    </rule>
+    <!-- END: Personal Verb Suffixes -->
+<!-- END    : Suffix Groups - Ek Grupları -->
+
+<!-- START: Sentence and its Constituents - Cümle ve Ögeleri -->
+    <rule category="S">
+        <category name="SS"/>
+    </rule>
+    <rule category="S">
+        <category name="S"/>
+        <category terminal="true" name="cm"/>
+        <category name="SS"/>
+    </rule>
+    <rule category="S">
+        <category name="S"/>
+        <category terminal="true" name="conj"/>
+        <category name="SS"/>
+    </rule>
+    <rule category="SS">
+        <category name="Pre"/>
+    </rule>
+    <rule category="SS">
+        <category name="IObj"/>
+        <category name="Pre"/>
+    </rule>
+    <rule category="SS">
+        <category name="Sub"/>
+        <category name="SS"/>
+    </rule>
+    <rule category="SS">
+        <category name="SS"/>
+        <category name="Sub"/>
+    </rule>
+    <rule category="SS">
+        <category name="DObj"/>
+        <category name="SS"/>
+    </rule>
+    <rule category="SS">
+        <category name="SS"/>
+        <category name="DObj"/>
+    </rule>
+    <rule category="SS">
+        <category name="SS"/>
+        <category name="Comp"/>
+    </rule>
+    <rule category="SS">
+        <category name="Comp"/>
+        <category name="SS"/>
+    </rule>
+    <rule category="SS">
+        <category name="SS"/>
+        <category name="Adv"/>
+    </rule>
+    <rule category="SS">
+        <category name="Adv"/>
+        <category name="SS"/>
+    </rule>
+    <rule category="SS">
+        <category name="SS"/>
+        <category name="Excl"/>
+    </rule>
+    <rule category="SS">
+        <category name="Excl"/>
+        <category name="SS"/>
+    </rule>
+<!-- END: Sentence and its Constituents - Cümle ve Ögeleri -->
+</grammar>

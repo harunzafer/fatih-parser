@@ -1,0 +1,268 @@
+// This file contatins hand made analyses for some words that current analyzers can not analyze correctly.
+men             men/pron
+sen             sen/pron
+ol              ol/pron         ol/adj
+o               o/pron          o/adj
+biz             biz/pron
+siz             siz/pron
+olar            olar/pron
+meniñ           men/pron+iñ/gen
+seniñ           sen/pron+iñ/gen
+onuñ            o/pron+nuñ/gen
+biziñ           biz/pron+iñ/gen
+siziñ           siz/pron+iñ/gen
+olarıñ          olar/pron+ıñ/gen
+meni            men/pron+i/acc
+seni            sen/pron+i/acc
+onı             o/pron+ı/acc
+bizi            biz/pron+i/acc
+sizi            siz/pron+i/acc
+oları           olar/pron+ı/acc
+maña            men/pron+a/dat
+saña            sen/pron+a/dat
+oña             o/pron+ña/dat
+bize            biz/pron+e/dat
+size            siz/pron+e/dat
+olara           olar/pron+a/dat
+mende           men/pron+de/loc
+sende           sen/pron+de/loc
+onda            o/pron+nda/loc
+bizde           biz/pron+de/loc
+sizde           siz/pron+de/loc
+olarda          olar/pron+da/loc
+menden          men/pron+den/abl
+senden          sen/pron+den/abl
+ondan           o/pron+ndan/abl
+bizden          biz/pron+den/abl
+sizden          siz/pron+den/abl
+olardan         olar/pron+dan/abl
+
+//İşaret zamirleri
+bu              bu/adj          bu/pron
+şol             şol/adj         şol/pron
+bular           bular/pron
+şular           şular/pron
+
+,               ,/cm
+
+
+// Fiil Çekimleri
+# dönmek - bilinen geçmiş zaman
+gaytdım         gayt/verb+dı/tense+m/1sg
+gaytdıñ         gayt/verb+dı/tense+ñ/2sg
+gaytdı          gayt/verb+dı/tense
+gaytdık         gayt/verb+dı/tense+k/1pl
+gaytdıñız       gayt/verb+dı/tense+ñız/2pl
+gaytdılar       gayt/verb+dı/tense+lar/3pl
+# anlamak - bilinen geçmiş zaman
+düşündim        düşün/verb+di/tense+m/1sg
+düşündiñ        düşün/verb+di/tense+ñ/2sg
+düşündi         düşün/verb+di/tense
+düşündik        düşün/verb+di/tense+k/1pl
+düşündiñiz      düşün/verb+di/tense+ñiz/2pl
+düşündiler      düşün/verb+di/tense+ler/3pl
+#gitmek - öğrenilen geçmiş zaman
+barıpdırın      bar/verb+ıpdır/tense+ın/1sg
+barıpdırsıñ     bar/verb+ıpdır/tense+sıñ/2sg
+barıpdır        bar/verb+ıpdır/tense
+barıpdırıs      bar/verb+ıpdır/tense+ıs/1pl
+barıpdırsıñız   bar/verb+ıpdır/tense+sıñız/2pl
+barıpdırlar     bar/verb+ıpdır/tense+lar/3pl
+geldim          gel/verb+di/tense+m/1sg
+övyää           öv/verb+yää/tense
+
+// İsim ve Sıfat Tamlamaları için Çözümlemeler
+erkinliğiñ      erkinlik/noun+iñ/gen
+aaşığı          aaşık/noun+ı/p3s
+bääğüliñ        bääğül/noun+iñ/gen
+açılışı         açılış/noun+ı/p3s
+salkın          salkın/adj
+saaya           saaya/noun
+tolkunlı        tolkun/noun+lı/-lU
+deñiz           deñiz/noun
+çağa            çağa/noun
+ayal            ayal/noun
+söz             söz/noun
+suv             suv/noun
+suvum           suv/noun+um/p1s
+kitap           kitap/noun
+kitabım         kitap/noun+ım/p1s
+iş              iş/noun
+gız             gız/noun
+yerim           yer/noun+im/p1s
+göz             göz/noun
+ot              ot/noun
+yara            yara/noun
+pulum           pul/noun+um/p1s
+adam            adam/noun
+dil             dil/noun
+işe             iş/noun+e/dat
+adamlar         adam/noun+lar/plu
+nöker           nöker/noun
+arılar          arı/noun+lar/plu
+güllerden       gül/noun+ler/plu+den/abl
+güllere         gül/noun+ler/plu+e/dat
+başını          baş/noun+ın/p3s+ı/acc
+yerden          yer/noun+den/abl
+ay              ay/noun
+parçası         parça/noun+sı/p3s
+palavdan        palav/noun+dan/abl
+säher           säher/noun
+çağına          çağ/noun+ı/p3s+na/dat
+it              it/noun
+azatlık         azatlık/noun
+ölüm            ölüm/noun
+çalasın         çalasın/adj
+edenli          edenli/adj
+goñşı           goñşı/noun
+dost            dost/noun
+halkını         halk/noun+ı/p3s+nı/acc
+özüni           öz/noun+ü/p3s+ni/acc
+ene             ene/noun
+ata             ata/noun
+doğan           doğan/noun
+gözler          göz/noun+ler/plu
+oğlanlar        oğlan/noun+lar/plu
+aşık            aşık/noun
+arzuv           arzuv/noun
+ayan            ayan/noun
+azap            azap/noun
+yağtı           yağtı/adj
+dünyäämize      dünyää/noun+miz/p1p+e/dat
+yañadaan        yañadaan/adv
+obada           oba/noun+da/loc
+yaşulı          yaşulı/adj
+yok             yok/pre
+bilbil          bilbil/noun
+ovazını         ovaz/noun+ı/p3s+nı/acc
+şahırlar        şahır/noun+lar/plu
+
+// Sıfat Fiiller
+gülen           gül/verb+en/-An
+ağlan           ağla/verb+n/-An
+aydılmadık      aydıl/verb+madık/-mAdIk
+içen            iç/verb+en/-An
+okamadık        oka/verb+madık/-mAdIk
+görmedik        gör/verb+medik/-mAdIk
+gülyään         gül/verb+yään/-yAAn
+geplemeyään     geple/verb+me/neg+yään/-yAAn
+gidyään         gid/verb+yään/-yAAn
+akar            ak/verb+ar/-Ar
+görer           gör/verb+er/-Ar
+öçmez           öç/verb+mez/-mAz
+bitmez          bit/verb+mez/-mAz
+bilmez          bil/verb+mez/-mAz
+yazılcak        yaz/verb+ıl/psv+cak/-cAk
+işlencek        işle/verb+ncek/-cAk
+geçcek          geç/verb+cek/-cAk
+uklamacak       ukla/verb+ma/neg+cak/-cAk
+bercek          ber/verb+cek/-cAk
+baraağada       bar/verb+aağada/-AAğAdA
+gelääğede       gel/verb+ääğede/-AAğAdA
+alanda          al/verb+anda/-AndA
+diyende         de/verb+ende/-AndA
+gelenimde       gel/verb+en/-An+im/1sg+de/-dA
+baranıñda       bar/verb+an/-An+ıñ/2sg+da/-dA
+barıp           bar/verb+ıp/-Up
+gonup           gon/verb+up/-Up
+başlap          başla/verb+p/-Up
+okap            oka/verb+p/-Up
+däälkää         dääl/verb+kää/-kAA
+alyarkaañız     al/verb+yar/tense+kaa/-kAA+ñız/2pl
+bilmään         bil/verb+mään/-mAAn
+yatmaan         yat/verb+maan/-mAAn
+galdırmaan      galdır/verb+maan/-mAAn
+
+
+//Tekrar Grubu
+böreñ-böreñ     böreñ/bs+böreñ/rdp
+bala-çağa       bala/bs+çağa/rdp
+geyim-gecim     geyim/bs+gecim/rdp
+barı-yoğı       barı/bs+yoğı/rdp
+
+
+//Edatlar
+bakan           bakan/posp
+başğa           başğa/posp
+bilen           bilen/posp      bilen/conj
+çen             çen/posp
+dek             dek/posp
+diyip           diyip/posp
+öñ              öñ/posp
+üçin            üçin/posp
+yaalı           yaalı/posp
+soñ             soñ/posp
+
+
+//Bağlama grubu
+hem             hem/conj        hem/2conj       hem/conj2
+ne              ne/conj2        ne/conj
+yaa             yaa/conj        yaa/conj2
+
+
+//Ünvanlar
+Ata                 ata/ttl
+Ece                 ece/ttl
+Bacı                bacı/ttl
+Molla               molla/ttl
+Ağa                 ağa/ttl
+Han                 han/ttl
+
+//Şahıs İsimleri
+Adam                Adam/prop
+Aylar               Aylar/prop
+Baharğül            Baharğül/prop
+Berdi               Berdi/prop
+Mırat               Mırat/prop
+Kasım               Kasım/prop
+Nurbadov            Nurbadov/prop
+Saparmırat          Saparmırat/prop
+Karatayev           Karatayev/prop
+Mayor               mayor/ttl           Mayor/prop
+Atakov              Atakov/prop
+Kömek               Kömek/prop
+
+//Ünlemler
+a                   a/intj
+ah                  ah/intj
+ey                  ey/intj
+vah                 vah/intj
+
+
+//Sayılar
+kaç                 kaç/adj                 kaç/verb
+sıfır               bir/adj
+bir                 bir/num                 bir/adj
+iki                 iki/num                 iki/adj
+üç                  üç/num                  üç/adj
+dört                dört/num                dört/adj
+bäş                 bäş/num                 bäş/adj
+altı                altı/num                altı/adj
+yedi                yedi/num                yedi/adj
+sekiz               sekiz/num               sekiz/adj
+dokuz               dokuz/num               dokuz/adj
+on                  on/num                  on/adj
+yiğrimi             yiğrimi/num             yiğrimi/adj
+otuz                otuz/num                otuz/adj
+kırk                kırk/num                kırk/adj
+elli                elli/num                elli/adj
+altmış              altmış/num              altmış/adj
+yetmiş              yetmiş/num              yetmiş/adj
+seksen              seksen/num              seksen/adj
+toğsan              toğsan/num              toğsan/adj
+yüz                 yüz/num                 yüz/adj
+müñ                 müñ/num                 müñ/adj
+million             million/num             million/adj
+
+
+//Birleşik fiiller
+bol                 bol/verb       bol/auxv
+eyle                eyle/verb      eyle/auxv
+et                  et/verb        et/auxv
+ber                 ber/verb       ber/auxv
+
+
+
+
+
+

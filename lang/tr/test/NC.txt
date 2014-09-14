@@ -1,0 +1,66 @@
+##### isim tamlamaları #####
+    evin kapısının kolu //Zincirleme isim tamlamalarında bir belirsizlik var ve kuralını henüz yazamadık
+    evin kapısının kapı kolu
+    öğrencilerin evleri
+    öğrenci evleri
+    öğrencilerin evi
+    evin kapı kolu
+    öğrenci evi
+    öğrencinin evi
+    öğrencimizin evi
+    köy yolu
+    öğrencin evi
+    öğrencim evi
+ovanın yeşili // Bu da POS Tagger'a ve Morfolojik belirsizliğe güzel bir örnek
+    bizim sesimiz
+    çoban çeşmesi
+    acı meyvesi
+    sabrın acı meyvesi
+    mayısın taze rüzgarı
+    uzak bir iklimin ılık havası
+    benim sadık yarim
+    güzel yarim
+    gurbet duygusu
+    erik ağaçlarının pembe, beyaz, kırmızı çiçekleri
+    erik ağacının pembe, beyaz, kırmızı çiçeği
+    savaş arabası
+    savaş arabaları
+    savaşın arabaları
+    savaşlar arabaları
+    dünyalar savaşı
+    büyük savaşların arabaları
+    köhne Üsküdar'ın dost ışıkları
+    Üsküdar'ın evleri
+    şehrin kenar evleri
+    eylül meyvelerinin baygın kokuları
+    türbenin rengarenk çini bahçesi
+    türbenin çini bahçesi
+    çınar ve dut ağaçlarının gölgesi // Bu da belirsizliğe güzel bir örnek gibi
+    çınar ağaçlarının gölgesi
+    çifte direkli yeşil çadırın kapısı
+    elbisenin yakasının düğmesi
+    halının saçağının rengi
+    benim çamaşır makinem
+    benim makinem
+    evin kapısı, penceresi
+    ev kapısı, penceresi
+    evin, arabanın anahtarı
+    evin, araba anahtarı    // Bunlar için kural yazmadık
+    ev, arabanın anahtarı   // Bunun için de
+    ev, araba anahtarı
+    muayene odasının kapısı
+    su ve ezan sesleri
+    Aşık Kerem devri
+    Bingöl Çobanlarının çaldıkları
+    yılların geçtiği
+    bu facianın herkesi üzdüğü
+    aşkın şeref diyarı
+    bahçenin ölüm ve ahiret kokusu dağıtabilmesi // bir sürü belirsizlik ile beraber çözümlüyor
+    insanların yapamayacağı, edemeyeceği
+    göklerin gülleri, nergisleri, sümbülleri, yaseminleri
+    yeni bir ümidin, yeni bir emelin şulesi
+
+
+
+
+

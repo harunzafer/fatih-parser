@@ -1,0 +1,44 @@
+#### Sıfat tamlamaları #####
+    acı gerçek
+    kırmızılı çocuklar
+    uzak on iki iklim
+    iki bin bir yılı
+    bin dört yüz elli üç gün
+    küçük kırmızı ağaçlar
+    verimli topraklar
+    bütün insanlar
+pembe panjurlu ev
+    kanlı ağıt
+    açan gül
+    biz insanlar // biz'in sıfat görevinde olduğu belli değil
+    bizim çocuklar
+    uzak hatıra
+    kurşun yüklü bulutlar // kurşun yüklü ne grubu?
+    zahmetli yolculuk
+    pembe panjurlu ev
+    çinilere sinmiş ses
+    alttaki halılar
+    palmiye üstündeki kuşlar
+    kadrini bilmediğim günler
+    mavileşen manzara
+    kırmızı kiremitli evler
+    kırmızı kiremitli, beyaz badanalı evler //sıfatlardan kaynaklanan bir belirsizlik var
+    yaşlı, vakur, tatlı bir kadın sesi
+    vakur, tatlı, yaşlı bir kadın sesi
+    güzel, siyah araba
+    bu ev, araba
+    şu gözlüklü adam
+    üç adımlık yol
+    o eski çocukluk günleri
+    on iki kişi
+    siyah bir ekmek parçası
+    üç günlük siyah bir ekmek parçası // günlük'den dolayı problem çıkıyor
+    en tatlı sabahlar
+    çok güzel kız // en, çok, pek gibi zarflar problemli
+    mum rengi çehreler // JP -> NC kuralı yok
+    yumuşak ve korkak adımlar //JP -> CG kuralı yok
+
+
+
+
+

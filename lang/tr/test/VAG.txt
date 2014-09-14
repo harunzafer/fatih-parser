@@ -1,0 +1,19 @@
+# Türkçe Zarf Fiiller
+    eve gelince
+    eve gelmeyerek
+    eve gelirken
+    suda, kuşta senin sedanı duyup
+hayalini hatırımdan silince
+    güneş batacağı yere iyice yaklaşınca // sorunlu
+    vuruşarak // FIIL_BERABERLIK_IS etiketi tanımlı değil
+    yaklaşınca
+    müzik başladığında
+    açınca kapısını
+    gün bitince
+
+
+
+
+
+
+

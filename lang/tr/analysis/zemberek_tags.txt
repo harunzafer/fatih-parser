@@ -1,0 +1,113 @@
+//Kelime Kökleri
+ISIM	noun
+OZEL    prop
+SIFAT	adj
+ZAMAN   adv
+ZAMIR	pron
+FIIL    verb
+EDAT    posp
+SAYI    num
+BAGLAC  conj
+SORU    que
+ISIM_COGUL_LER  plu
+
+//Hal Ekleri
+ISIM_TAMLAMA_IN         gen
+ZAMIR_SAHIPLIK_IM	gen
+ISIM_YONELME_E          dat
+ISIM_KALMA_DE           loc
+ISIM_CIKMA_DEN          abl
+ISIM_BELIRTME_I         acc
+ISIM_BIRLIKTELIK_LE     ins
+ISIM_BULUNMA_KI         rel
+ZAMAN_BELIRTME_KI       rel
+
+//Bazı yapım ekleri
+ISIM_BULUNMA_LI         +lU
+ISIM_YOKLUK_SIZ         +sUz
+ISIM_BULUNMA_LIK        +lUk
+//ISIM_DURUM_LIK          +lUk
+ISIM_DONUSUM_LES        +lAş
+
+// Ek-fiil
+IMEK_HIKAYE_DI          aux
+IMEK_RIVAYET_MIS        aux
+IMEK_SART_SE            aux
+
+ISIM_TANIMLAMA_DIR      aux
+
+
+//İyelik Ekleri
+ISIM_SAHIPLIK_BEN_IM        p1s
+ZAMIR_SAHIPLIK_IM           p1s
+ISIM_SAHIPLIK_SEN_IN        p2s
+ISIM_SAHIPLIK_O_I         p3s
+//ISIM_TAMLAMA_I            p3s
+ISIM_SAHIPLIK_BIZ_IMIZ      p1p
+ISIM_SAHIPLIK_SIZ_INIZ      p2p
+ISIM_SAHIPLIK_ONLAR_LERI    p3p
+
+//Fiil ve İsim Şahıs Ekleri
+FIIL_KISI_BEN               1sg
+ISIM_KISI_BEN_IM            1sg
+FIIL_KISI_SEN               2sg
+ISIM_KISI_SEN_SIN           2sg
+FIIL_KISI_O                 3sg
+ISIM_KISI_O_BOS             3sg
+FIIL_KISI_BIZ               1pl
+ISIM_KISI_BIZ_IZ            1pl
+FIIL_KISI_SIZ               2pl
+ISIM_KISI_SIZ_SINIZ         2pl
+FIIL_KISI_ONLAR             3pl
+ISIM_KISI_ONLAR_LER         3pl
+
+//Fiil olumsuzluk eki
+FIIL_OLUMSUZLUK_ME          neg
+
+//Edilgen
+FIIL_EDILGEN_IL             psv
+FIIL_EDILGENSESLI_N         psv
+
+
+//Fiil Zaman Ekleri
+FIIL_GENISZAMAN_IR          tense
+FIIL_SIMDIKIZAMAN_IYOR      tense
+FIIL_GECMISZAMAN_DI         tense
+FIIL_GECMISZAMAN_MIS        tense
+FIIL_GELECEKZAMAN_ECEK      tense
+
+//Tasarlama kipleri
+FIIL_EMIR_SIZRESMI_INIZ     mood
+FIIL_EMIR_O_SIN             mood
+FIIL_EMIR_ONLAR_SINLER      mood
+FIIL_EMIR_SIZ_IN            mood
+FIIL_SART_SE                mood
+FIIL_ISTEK_E                mood
+FIIL_ISTEK_SENE             mood
+FIIL_ZORUNLULUK_MELI        mood
+FIIL_YETENEK_EBIL           mood
+
+//Sıfat Fiiller
+FIIL_DONUSUM_EN             +An
+FIIL_BELIRTME_DIK           +DUk
+FIIL_DONUSUM_ECEK           +AcAk
+FIIL_DONUSUM_MIS            +mUş
+
+//İsim Fiiller
+FIIL_MASTAR_MEK             +mAk
+FIIL_DONUSUM_ME             +mA
+FIIL_DONUSUM_IS             +Iş
+
+//Zarf Fiiller
+IMEK_ZAMAN_KEN              +ken
+FIIL_ZAMAN_INCE             +UncA
+FIIL_SUREKLILIK_EREK        +ArAk
+FIIL_IMSI_IP                +Up
+
+
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+bitince
+    olunca
+    olmayınca
+    olarak
+    olmayarak
+    olurken
+    olmazken
+
+
+

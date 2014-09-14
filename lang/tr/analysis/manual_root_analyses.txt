@@ -1,0 +1,27 @@
+// This file contatins hand made analyses for some words that current analyzers can not analyze correctly.
+
+// Yardımcı Fiiller
+
+ol                  verb        auxv
+yap                 verb        auxv
+eyle                verb        auxv
+et                  verb        auxv
+kıl                 verb        auxv
+bulun               verb        auxv
+
+
+
+//Diğerleri
+
+yıl                 noun
+gün                 noun
+sabah               noun
+üzere               posp
+beri                adv
+nasıl               adv
+neden               adv
+niçin               adv
+
+
+
+

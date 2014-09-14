@@ -1,0 +1,1497 @@
+abart	25	T	F
+abdest al	18	F	F
+abone ol	10	F	F
+acele et	18	F	F
+acı	52	F	F
+acık	14	F	F
+aç	938	T	F
+açıklama yap	21	F	F
+açıklan	95	F	T
+açıl	544	F	T
+açtır	15	T	F
+ada	18	T	F
+aday ol	16	F	F
+adlandır	31	T	F
+adlandırıl	45	F	T
+affedil	12	F	T
+affet	29	T	F
+ağırla	15	T	F
+ağırlaş	22	F	F
+ağırlaştır	9	T	F
+ağla	246	F	F
+ağrı	19	F	F
+ait ol	46	F	F
+akıt	29	T	F
+aksa	15	F	F
+aksat	11	T	F
+aktar	118	T	F
+aktarıl	54	F	T
+alay et	27	F	F
+aldan	13	F	F
+aldat	33	T	F
+aldatıl	15	F	T
+aldır	70	T	F
+algıla	102	T	F
+algılan	36	F	T
+alış	108	F	F
+alışıl	12	F	T
+alıştır	22	T	F
+alkışla	30	T	F
+alt et	12	T	F
+altüst et	22	T	F
+altüst ol	11	F	F
+amaçla	66	T	F
+amaçlan	22	F	F
+analiz et	13	T	F
+andır	44	T	F
+anımsa	88	T	F
+anımsat	22	T	F
+anla    000     T       F
+anlamlandır	11	T	F
+anlaş	81	F	F
+anlatıl	109	F	T
+anne ol	18	F	F
+ara	701	T	F
+aran	157	F	T
+aranıl	10	F	T
+araştır	151	T	F
+araştırıl	32	F	T
+arat	11	T	F
+arın	16	F	F
+arındır	15	T	F
+arıt	12	T	F
+arkadaş ol	12	F	F
+armağan et	11	T	F
+artır	245	T	F
+artırıl	57	F	T
+arz et	42	T	F
+arzu et	29	T	F
+arzula	24	T	F
+as	69	T	F
+asfaltlan	31	F	F
+asıl	40	F	T
+aşağıla	19	T	F
+âşık ol	55	F	F
+aşıl	27	F	T
+aşın	25	F	F
+at	878	T	F
+atan	36	F	T
+ateşle	11	T	F
+atfet	14	F	F
+atıl	225	F	T
+atıştır	13	T	F
+atla	97	T	F
+atlat	37	T	F
+attır	12	T	F
+avla	10	T	F
+avlan	29	F	F
+avut	10	T	F
+ayaklan	12	F	F
+ayarla	64	T	F
+ayarlan	32	F	T
+aydınlan	34	F	F
+aydınlat	49	T	F
+aydınlatıl	14	F	T
+ayıkla	21	T	F
+ayıklan	12	F	T
+ayıl	9	F	F
+ayır	216	T	F
+ayırt edil	12	F	T
+ayırt et	28	T	F
+ayrıl	397	F	T
+ayrılış	10	F	F
+ayrımsa	10	T	F
+ayrış	13	F	F
+ayrıştır	16	T	F
+azal	183	F	F
+azalt	146	T	F
+azarla	23	T	F
+baba ol	11	F	F
+bağdaş	22	F	F
+bağır	241	F	F
+bağışlan	13	F	T
+bağla	183	T	F
+bağlan	178	F	F
+bağlı ol	140	F	F
+bahset	114	F	F
+bak     000     F       F
+bakıl	141	F	T
+bakın	24	F	F
+baktır	12	T	F
+banyo yap	14	F	F
+barın	12	F	F
+barındır	36	T	F
+barış	11	F	F
+bas	262	T	F
+basıl	49	F	T
+baskı yap	16	F	F
+bastır	95	T	F
+bastırıl	19	F	T
+baş kaldır	11	F	F
+başar	162	T	F
+başla	2064	F	F
+başlan	116	F	T
+başlat	57	T	F
+başlatıl	24	F	T
+başvur	156	F	F
+bat	93	F	F
+batır	39	T	F
+bayıl	57	F	F
+becer	57	T	F
+beğen	152	T	F
+beğenil	21	F	T
+beklen	155	F	T
+beklenil	12	F	T
+beklet	53	T	F
+bekletil	22	F	T
+belgele	22	T	F
+belir	78	F	F
+belirginleş	10	F	F
+belirle	225	T	F
+belirlen	200	F	T
+belirtil	171	F	T
+belle	14	T	F
+belli et	54	T	F
+belli ol	63	F	F
+benimse	71	T	F
+benimsen	30	F	T
+benze	222	F	F
+benzet	39	T	F
+besle	73	T	F
+beslen	118	F	F
+betimle	9	T	F
+beyan et	22	T	F
+bezen	14	F	T
+bıçakla	9	T	F
+bık	44	F	F
+bırak	932	T	F
+bırakıl	134	F	T
+biç	15	T	F
+biçil	18	F	T
+biçimlen	14	F	T
+bildir	131	T	F
+bildiril	23	F	T
+bilgilen	11	F	F
+bilgilendir	19	T	F
+bindir	12	T	F
+birik	70	F	F
+biriktir	36	T	F
+birinci ol	12	F	F
+birleş	108	F	F
+birleştir	72	T	F
+bitir	206	T	F
+bitiril	18	F	T
+bocala	18	F	F
+boğ	40	T	F
+boğul	39	F	T
+boğuş	20	F	F
+borçlan	19	F	F
+boş ver	29	T	F
+boşal	23	F	T
+boşalt	49	T	F
+boşaltıl	20	F	T
+boşan	49	F	F
+boya	30	T	F
+boyan	29	F	T
+boz	146	T	F
+bozul	186	F	T
+böl	74	T	F
+bölün	78	F	F
+bölüş	13	F	F
+buharlaş	21	F	F
+bulan	19	F	T
+bulaş	58	F	F
+bulaştır	10	T	F
+bulun	1856	F	F
+bulundur	91	T	F
+buluş	109	F	F
+buluştur	15	T	F
+bunal	21	F	F
+bunalt	10	T	F
+burkul	12	F	T
+buruştur	15	T	F
+buyur	129	T	F
+bürü	11	T	F
+bürün	46	F	F
+bütünleş	45	F	F
+büyü	11	F	F
+büyüle	12	T	F
+büyülen	9	F	T
+büyüt	57	T	F
+büyütül	10	F	T
+büzül	14	F	T
+canlan	36	F	F
+canlandır	37	T	F
+cereyan et	13	F	F
+cesaret et	16	F	F
+cevapla	28	T	F
+coş	13	F	F
+çabala	27	F	F
+çağdaşlaş	9	F	F
+çağrıl	28	F	T
+çağrıştır	31	T	F
+çak	61	T	F
+çalın	54	F	T
+çalışıl	96	F	T
+çalıştır	70	T	F
+çalıştırıl	20	F	T
+çalkala	12	T	F
+çalkalan	9	F	T
+çarp	88	T	F
+çarpıl	24	F	T
+çarpış	24	F	F
+çarptır	11	T	F
+çat	26	T	F
+çatış	25	F	F
+çatla	25	F	F
+çekin	64	F	F
+çekiş	22	F	F
+çekiştir	14	T	F
+çektir	40	T	F
+çel	9	T	F
+çeliş	20	F	F
+çevir	261	T	F
+çevrele	21	T	F
+çevril	59	F	T
+çıkarıl	191	F	T
+çıkart	157	T	T
+çıkartıl	44	F	T
+çıkıl	56	F	T
+çıkış	13	F	F
+çıldır	18	F	F
+çınla	15	F	F
+çırp	28	T	F
+çırpın	28	F	F
+çiftleş	13	F	F
+çiğne	26	T	F
+çizil	47	F	T
+çocuk ol	23	F	F
+çoğal	75	F	F
+çoğalt	23	T	F
+çök	117	F	F
+çömel	11	F	F
+çöz	135	T	F
+çözül	93	F	T
+çözümle	19	T	F
+çözümlen	14	F	T
+çözün	14	F	F
+çürü	37	F	F
+dağıl	93	F	F
+dağıt	103	T	F
+dağıtıl	33	F	T
+dâhil et	18	T	F
+dâhil ol	26	F	F
+dal	142	F	F
+daldır	12	T	F
+dalgalan	15	F	F
+danış	28	T	F
+dans et	38	F	F
+daral	36	F	F
+davet et	69	T	F
+davran	240	F	F
+daya	46	T	F
+dayan	272	F	F
+dayandır	10	T	F
+dayanıl	18	F	T
+dayat	20	T	F
+dedirt	15	T	F
+defnedil	9	F	T
+değdir	10	T	F
+değerlendir	200	T	F
+değerlendiril	97	F	T
+değin	74	F	F
+değiştiril	87	F	T
+del	35	T	F
+delin	10	F	T
+delir	10	F	F
+demle	9	T	F
+demlen	11	F	T
+dene	123	T	F
+denen	21	F	T
+denetle	43	T	F
+denetlen	27	F	T
+dengele	21	T	F
+denil	181	F	T
+depola	16	T	F
+depolan	16	F	T
+derinleş	12	F	F
+derle	21	T	F
+dertleş	10	F	F
+destek ol	18	F	F
+destekle	98	T	F
+desteklen	31	F	T
+devam et	547	F	F
+devin	10	F	F
+devir	25	T	F
+devral	11	F	T
+devredil	22	F	T
+devret	22	T	F
+devril	15	F	T
+dışla	26	T	F
+dik	135	T	F
+dikil	71	F	T
+dikkat et	196	F	F
+dikleş	12	F	F
+dilen	15	F	F
+dilimle	10	T	F
+din	13	F	F
+dinle	438	T	F
+dinlen	95	F	F
+dinlendir	15	T	F
+dinlet	16	T	F
+diren	57	F	F
+diret	11	T	F
+diril	10	F	F
+diz	46	T	F
+dizil	23	F	T
+doğra	43	T	F
+doğran	30	F	T
+doğrul	39	F	F
+doğrula	16	T	F
+doğur	109	T	F
+doku	16	T	F
+dokun	152	F	F
+dokunul	10	F	T
+dol	79	F	F
+dola	12	T	F
+dolaştır	18	T	F
+doldur	229	T	F
+doldurul	55	F	T
+doluş	14	F	F
+don	65	F	F
+donat	20	T	F
+donatıl	33	F	T
+dondur	11	T	F
+dost ol	19	F	F
+doy	51	F	F
+doyur	27	T	F
+dök	151	T	F
+dökül	147	F	T
+döllen	11	F	T
+dön	942	F	F
+döndür	43	T	F
+döndürül	13	F	T
+dönül	26	F	T
+dönüş	204	F	F
+dönüştür	90	T	F
+dönüştürül	33	F	T
+döşe	21	T	F
+döşen	33	F	F
+döv	75	T	F
+dövül	28	F	T
+dua et	27	F	F
+dur	1091	F	F
+durakla	19	F	F
+duraksa	17	F	F
+durdur	50	T	F
+durdurul	21	F	T
+durul	50	F	T
+durula	10	T	F
+duy	866	T	F
+duygulan	14	F	F
+duyul	159	F	T
+duyumsa	14	T	F
+duyur	67	T	F
+duyurul	12	F	T
+düğümlen	13	F	T
+dürt	9	T	F
+düş	871	T	F
+düşle	22	T	F
+düşman ol	12	F	F
+düşün	1439	T	F
+düşündür	22	T	F
+düşünül	169	F	T
+düşür	135	T	F
+düşürül	28	F	T
+düz	10	T	F
+düzel	43	F	F
+düzelt	91	T	F
+düzeltil	35	F	T
+düzenle	168	T	F
+düzenlen	133	F	T
+edil	268	F	T
+edin	126	T	F
+edinil	13	F	T
+eğ	54	T	F
+eğil	108	F	T
+eğit	32	T	F
+eğitil	22	F	T
+eğlen	79	F	F
+eğlendir	15	T	F
+ek	167	T	F
+ekil	22	F	T
+ekle	217	T	F
+eklen	84	F	T
+eksil	18	F	T
+elen	13	F	T
+eleştir	65	T	F
+eleştiril	23	F	T
+em	47	T	F
+emanet et	17	T	F
+emekli ol	21	F	F
+emil	16	F	T
+emin ol	38	F	F
+emret	30	T	F
+emzir	13	T	F
+endişelen	11	F	F
+engel ol	70	F	F
+engelle	159	T	F
+engellen	28	F	T
+enjekte et	10	T	F
+er	78	F	F
+erdir	14	T	F
+eri	63	F	F
+eriş	54	F	F
+erişil	13	F	T
+erit	27	T	F
+eritil	25	F	T
+ertele	15	T	F
+ertelen	19	F	T
+eser	214		F
+esinlen	14	F	F
+esirge	21	T	F
+eşlik et	28	F	F
+et	1265	T	F
+etki	505	F	F
+etkile	248	T	F
+etkilen	126	F	F
+etkili ol	63	F	F
+ettir	21	T	F
+evlen	193	F	F
+eyle	14	F	F
+ez	45	T	F
+ezberle	29	T	F
+ezil	61	F	T
+faksla	14	T	F
+fark et	266	T	F
+farklılaş	10	F	F
+fazla ol	60	F	F
+fethet	10	T	F
+fırçala	13	T	F
+fırçalan	9	F	T
+fırla	91	F	F
+fırlat	38	T	F
+fısılda	25	T	F
+fışkır	18	F	F
+filizlen	9	F	F
+finanse et	14	T	F
+gasp et	10	T	F
+gayret et	19	F	F
+gecik	58	F	F
+geç     000     T       F
+geçil	102	F	T
+geçin	45	F	F
+geçir	485	T	F
+geçiril	93	F	T
+geçiş	138		F
+gel	4033	F	F
+geliş	505	F	F
+geliştir	184	T	F
+geliştiril	114	F	T
+genişle	40	F	F
+genişlet	34	T	F
+genişletil	16	F	T
+ger	23	T	F
+gerçekleş	206	F	F
+gerçekleştir	164	T	F
+gerçekleştiril	114	F	T
+gerek	1782	T	F
+gereksin	18	F	F
+gerektir	164	T	F
+geril	29	F	T
+gerile	29	F	F
+gerin	9	F	F
+getir	1230	T	F
+getiril	236	F	T
+getirt	20	T	F
+gevşe	38	F	F
+gevşet	16	T	F
+gevşetil	9	F	T
+gez	154	F	F
+gezdir	43	T	F
+gezin	35	F	F
+gideril	36	F	T
+gidil	78	F	T
+gir	1527	T	F
+giril	55	F	T
+giriş	51	F	F
+git     000     F       F
+giy	215	T	F
+giydir	30	T	F
+giyil	19	F	T
+giyin	69	F	F
+gizle	58	T	F
+gizlen	40	F	T
+göç	26	F	F
+göç et	22	F	F
+göğüsle	12	T	F
+göm	32	T	F
+gömül	43	F	T
+gönderil	94	F	T
+görevlendir	14	T	F
+görevlendiril	35	F	T
+görül	620	F	T
+görüntüle	17	T	F
+görüş	180	F	F
+görüşül	14	F	T
+göster	1268	T	F
+gösteril	149	F	T
+götür	375	T	F
+götürül	41	F	T
+gözet	23	T	F
+gözetil	9	F	T
+gözetle	12	T	F
+gözlemle	32	T	F
+gözlen	50	F	T
+gözük	73	F	F
+güçlen	31	F	F
+güçlendir	65	T	F
+güçleş	12	F	F
+güçleştir	12	T	F
+gül	116	F	F
+güldür	37	T	F
+gülümse	130	F	F
+güreş	9	F	F
+güt	13	T	F
+güven	102	F	F
+güvenil	10	F	T
+güzel ol	43	F	F
+güzelleştir	13	T	F
+haberdar ol	14	F	F
+haberleş	10	F	F
+hafiflet	15	T	F
+hak et	51	T	F
+hakaret et	18	F	F
+hâkim ol	49	F	F
+haklı ol	32	F	F
+haksızlık et	17	F	F
+hallet	64	T	F
+hapset	10	T	F
+harca	149	T	F
+harcan	39	F	T
+hareket et	167	F	F
+hareketlen	14	F	F
+hasta ol	19	F	F
+hastalan	31	F	F
+haşla	32	T	F
+haşlan	32	F	T
+hatırlan	20	F	T
+hatırlat	95	T	F
+havalan	16	F	F
+havalandır	15	T	F
+havla	17	F	F
+hayal et	39	T	F
+hayıflan	10	F	F
+haykır	30	T	F
+hayran ol	16	F	F
+hayret et	10	F	F
+hazmet	15	T	F
+hedef ol	13	F	F
+hedefle	53	T	F
+hediye et	21	T	F
+hesaplan	38	F	T
+hesaplaş	13	F	F
+heyecanlan	28	F	F
+heyecanlandır	14	T	F
+hıçkır	14	F	F
+hırla	14	F	F
+hırpala	12	T	F
+hızlandır	42	T	F
+hissedil	24	F	T
+hissettir	25	T	F
+hitap et	40	F	F
+hizmet et	42	F	F
+homurdan	17	F	F
+hortumla	10	T	F
+hoşlan	97	F	F
+hükmet	16	F	F
+ısın	75	F	F
+ısır	31	T	F
+ısıt	40	T	F
+ısıtıl	44	F	T
+ıskala	11	T	F
+ıslan	24	F	F
+ıslat	23	T	F
+ıslatıl	9	F	T
+ısmarla	15	T	F
+ısrar et	27	F	F
+ışı	17	F	F
+ışıklandır	12	T	F
+ışılda	10	F	F
+ibadet et	12	F	F
+ibaret ol	13	F	F
+icat et	16	T	F
+içil	57	F	T
+içir	14	T	F
+idam et	12	T	F
+idare et	40	T	F
+iddia et	81	T	F
+idrak et	14	F	F
+ifade et	190	T	F
+iğren	10	F	F
+ihlâl et	10	T	F
+ihmal et	50	T	F
+ihraç et	23	T	F
+ihtiva et	10	T	F
+ikamet et	16	F	F
+ikna et	37	T	F
+ikram et	20	T	F
+ilân edil	29	F	T
+ilân et	47	T	F
+ilâve et	120	T	F
+ilerle	169	F	F
+ilet	54	T	F
+iletil	25	F	T
+ilgilen	186	F	F
+ilgilendir	74	T	F
+iliş	25	F	F
+ilişkilendir	10	T	F
+imal et	21	T	F
+imzala	47	T	F
+imzalan	28	F	T
+imzalat	10	T	F
+inandır	18	T	F
+incel	12	F	T
+incele	230	T	F
+incelen	96	F	T
+incin	11	F	T
+incit	20	T	F
+indir	126	T	F
+indirgen	15	F	T
+indiril	34	F	T
+inkâr et	27	T	F
+inle	15	F	F
+inşa et	73	T	F
+intihar et	20	T	F
+intikal et	10	F	F
+iptal et	28	T	F
+irdele	28	T	F
+irkil	26	F	F
+ispat et	18	T	F
+ispatla	17	T	F
+iste    000     T       F
+isten	166	F	T
+istenil	47	F	T
+istifa et	19	F	F
+istifade et	13	F	F
+istilâ et	13	T	F
+isyan et	17	F	F
+işaret et	69	T	F
+işgal et	39	T	F
+işit	63	T	F
+işitil	11	F	T
+işle	194	T	F
+işlen	94	F	T
+işlet	47	T	F
+işletil	19	F	F
+iştirak et	13	F	F
+itaat et	17	F	F
+ithal et	34	T	F
+itil	23	F	T
+itiraf et	32	T	F
+itiraz et	32	F	F
+iyileş	39	F	F
+iyileştir	30	T	F
+izah et	24	T	F
+izle	415	T	F
+izlen	56	F	T
+kabar	29	F	F
+kabart	17	T	F
+kabul et	445	T	F
+kabullen	53	T	F
+kaç	272	F	F
+kaça	13	F	F
+kaçın	133	F	F
+kaçır	137	T	F
+kaçırıl	21	F	T
+kahret	11	T	F
+kahrol	13	F	F
+kahvaltı et	10	F	F
+kal     000     F       F
+kaldırıl	102	F	T
+kalk	509	F	F
+kalkın	26	F	F
+kalkış	52	F	F
+kamaştır	15	T	F
+kana	17	F	F
+kandır	36	T	F
+kanıtla	56	T	F
+kanıtlan	23	F	T
+kanlan	9	F	F
+kapa	59	T	F
+kapat	249	T	F
+kapatıl	70	F	T
+kapıl	101	F	F
+kapla	94	T	F
+kapsa	81	T	F
+kaptır	33	T	F
+kâr et	13	F	F
+karar	67	F	F
+kararlaştırıl	12	F	T
+karart	12	T	F
+karıştır	194	T	F
+karıştırıl	35	F	T
+karşı ol	39	F	F
+karşıla	214	T	F
+karşılan	11	F	T
+karşılaştır	46	T	F
+karşılaştırıl	27	F	T
+kasıl	21	F	T
+kastet	30	T	F
+kaşı	23	T	F
+katet	20	T	F
+katıl	375	F	F
+katılaş	10	F	F
+katla	15	T	F
+katlan	75	F	F
+katlet	15	T	F
+kavga et	34	F	F
+kavra	86	T	F
+kavran	17	F	F
+kavrul	15	F	T
+kavur	37	T	F
+kavuş	112	F	F
+kavuştur	40	T	F
+kay	101	F	F
+kaybedil	17	F	T
+kaybol	163	F	F
+kaydedil	25	F	T
+kaydet	58	T	F
+kaydır	14	T	F
+kaygılan	12	F	F
+kayıt	141		F
+kayna	75	F	F
+kaynaklan	148	F	F
+kaynaş	21	F	F
+kaynat	46	T	F
+kaynatıl	14	F	T
+kaz	30	T	F
+kazan	586	T	F
+kazandır	132	T	F
+kazanıl	41	F	T
+kazı	22	T	F
+kazıl	16	F	T
+kazın	9	F	F
+kemir	15	T	F
+kenetlen	10	F	F
+kesil	243	F	T
+kesinleş	15	F	F
+kesiş	16	F	F
+kestir	53	T	F
+keşfedil	25	F	T
+keşfet	66	T	F
+kıkırda	10	F	F
+kıl	182	T	F
+kılın	39	F	T
+kımılda	18	F	F
+kına	20	T	F
+kınan	10	F	T
+kıpırda	31	F	F
+kırıl	145	F	T
+kırp	14	T	F
+kıs	18	T	F
+kısal	13	F	T
+kısalt	12	T	F
+kısaltıl	13	F	T
+kısıl	20	F	T
+kısıtla	22	T	F
+kıskan	33	T	F
+kışkırt	15	T	F
+kışla	13	F	F
+kıvır	20	T	F
+kıvran	17	F	F
+kıvrıl	28	F	T
+kıy	33	T	F
+kıyasla	10	T	F
+kıyaslan	10	F	T
+kıyıl	43	F	T
+kız	136	F	F
+kızar	59	F	F
+kızart	35	T	F
+kızartıl	11	F	T
+kızdır	33	T	F
+kilitle	22	T	F
+kilitlen	31	F	T
+kirala	35	F	F
+kiralan	19	F	T
+kirlen	37	F	F
+kirlet	36	T	F
+kişne   000     F       F
+kokla	22	T	F
+kolaylaş	21	F	F
+kolaylaştır	77	T	F
+kon	133	F	F
+konakla	9	F	F
+kondur	11	T	F
+kontrol et	147	T	F
+konuk ol	16	F	F
+konul	151	F	T
+konuş	1053	F	F
+konuştur	14	T	F
+konuşul	64	F	T
+kop	124	F	F
+kopar	65	T	F
+koparıl	14	F	T
+kopart	11	T	F
+korkut	48	T	F
+koru	12	T	F
+korun	144	F	T
+koştur	33	T	F
+koşullan	10	F	T
+koşuştur	13	F	F
+kov	32	T	F
+kovala	28	T	F
+kovul	11	F	T
+koydur	15	T	F
+koyul	71	F	T
+koyulaş	11	F	F
+koyver	17	T	F
+kötü ol	13	F	F
+kötülük yap	11	F	F
+kucakla	21	T	F
+kucaklaş	20	F	F
+kudur	11	F	F
+kullan	1228	T	F
+kullanıl	960	T	T
+kurcala	12	T	F
+kurtar	219	T	F
+kurtarıl	25	F	T
+kurtul	269	F	F
+kuru	84	F	F
+kurul	374	F	T
+kurula	16	T	F
+kurumsallaş	11	F	F
+kurut	25	T	F
+kurutul	31	F	T
+kus	32	T	F
+kuşat	28	T	F
+kuşatıl	12	F	T
+kuşkulan	14	F	F
+kutla	69	T	F
+kuvvetlendir	11	T	F
+küçül	54	F	F
+küçült	19	T	F
+küçümse	26	T	F
+küçümsen	18	F	F
+küfret	14	F	F
+kükre	12	F	F
+küre	17	T	F
+küreselleş	15	F	F
+küs	29	F	F
+lâyık ol	20	F	F
+mahkûm et	22	T	F
+mahkûm ol	10	F	F
+mahvet	20	T	F
+mal ol	23	F	F
+mâni ol	13	F	F
+memnun et	23	T	F
+memnun ol	27	F	F
+merak et	148	T	F
+mesh et	11	T	F
+meşgul et	13	T	F
+mevcut ol	12	F	F
+mezun ol	24	F	F
+mırıldan	67	F	F
+moda ol	17	F	F
+monte et	35	T	F
+motive et	10	T	F
+muayene ol	11	F	F
+muhafaza et	32	T	F
+muhtaç ol	15	F	F
+mutlu et	37	T	F
+mutlu ol	50	F	F
+müdahale et	36	F	F
+mühürlen	10	F	T
+müjdele	10	T	F
+mümkün ol	143	F	F
+müracaat et	25	F	F
+müsaade et	18	F	F
+namaz kıl	44	F	F
+nefret et	51	F	F
+nemlendir	12	T	F
+nişanlan	10	F	F
+nitele	16	T	F
+nitelen	11	F	T
+nitelendir	10	T	F
+nitelendiril	16	F	T
+not et	11	T	F
+odaklan	14	F	T
+okşa	72	T	F
+oku     000     T       F
+okut	30	T	F
+okutul	9	F	T
+ol      000     F       F
+olgunlaş	25	F	F
+oluş	602	T	F
+oluştur	532	T	F
+oluşturul	90	F	T
+onar	16	T	F
+onarıl	15	F	T
+onayla	35	T	F
+onaylan	31	F	T
+organize et	10	T	F
+ortak ol	16	F	F
+oturt	65	T	F
+oturtul	21	F	T
+oturul	30	F	T
+oturuş	13	F	F
+ov	11	T	F
+ovuştur	20	T	F
+oy	10	T	F
+oyalan	26	F	F
+oyna	497	T	F
+oynan	33	F	F
+oynaş	13	F	F
+oynat	49	T	F
+öde	373	T	F
+öden	89	F	T
+ödüllendir	14	T	F
+öfkelen	24	F	F
+öğren	560	T	F
+öğrenil	36	F	T
+öğret	98	T	F
+öğretil	28	F	T
+öksür	17	F	F
+ölç	49	T	F
+ölçül	50	F	T
+öldür	188	T	F
+öldürül	68	F	T
+önemse	34	T	F
+önemsen	14	F	T
+öner	158	T	F
+öngör	56	T	F
+öngörül	27	F	T
+önlen	64	F	T
+öp	98	T	F
+öpüş	30	F	F
+ör	26	T	F
+örgütlen	31	F	T
+örnek ol	50	F	F
+ört	78	T	F
+örtül	25	F	T
+örtün	16	F	F
+örtüş	19	F	F
+örül	15	F	T
+öt	22	F	F
+öv	25	T	F
+övün	31	F	F
+özdeşleştir	14	T	F
+özelleştir	36	T	F
+özen	16	F	F
+özendir	25	T	F
+özetle	56	T	F
+özetlen	15	F	T
+özle	67	T	F
+parçalan	49	F	T
+park et	44	T	F
+parla	62	F	F
+parlat	18	T	F
+patla	121	F	F
+patlat	33	T	F
+paylaş	176	T	F
+paylaşıl	19	F	T
+pazarla	32	T	F
+pazarlan	10	F	T
+pekiştir	19	T	F
+pembeleş	11	F	F
+pes et	10	F	F
+piş	74	F	F
+pişir	147	T	F
+pişiril	35	F	T
+pişman ol	23	F	F
+plânla	62	T	F
+plânlan	42	F	T
+programlan	10	F	T
+protesto et	19	T	F
+rahat et	28	F	F
+rahat ol	15	F	F
+rahatla	68	F	F
+rahatlat	54	T	F
+rahatsız et	84	T	F
+rahatsız ol	27	F	F
+rastla	95	F	F
+rastlan	75	F	T
+razı ol	31	F	F
+reddedil	9	F	T
+reddet	53	T	F
+rekabet et	10	F	F
+rendelen	23	F	T
+renklendir	16	T	F
+resmet	10	T	F
+rezil ol	12	F	F
+rica et	50	T	F
+sabitle	15	F	F
+sabret	15	F	F
+saç	24	T	F
+saçıl	13	F	T
+saçmala	10	F	F
+sağla	965	T	F
+sağlamlaştır	11	T	F
+sağlan	259	F	T
+sahiplen	12	T	F
+sakatlan	9	F	T
+sakın	28	T	F
+sakin ol	11	F	F
+sakinleş	13	F	F
+sakla	148	T	F
+saklan	64	F	T
+sal	40	T	F
+saldır	73	F	F
+salgıla	24	T	F
+salla	98	T	F
+sallan	55	F	T
+samimî ol	10	F	F
+sanayileş	12	F	F
+sancı	21	F	F
+sanıl	47	F	T
+sap	21	F	F
+saplan	19	F	T
+sapta	58	T	F
+saptan	63	F	T
+sarar	16	F	T
+sarf et	33	T	F
+sarhoş ol	18	F	F
+sarıl	134	F	T
+sark	41	F	F
+sars	40	T	F
+sarsıl	50	F	T
+satıl	162	F	T
+satın al	168	T	F
+satış yap	14	F	F
+savaş	42	F	F
+savrul	20	F	T
+savun	160	T	F
+savunul	14	F	T
+savur	30	T	F
+sayıl	242	F	T
+sebep ol	55	F	F
+seçil	145	F	T
+seçim yap	10	F	F
+seğirt	11	F	F
+sek	17	F	F
+selâmla	11	T	F
+ser	49	T	F
+sergile	80	T	F
+sergilen	36	F	T
+seril	20	F	T
+serp	33	T	F
+serpil	16	F	T
+serpiştir	9	T	F
+sertleş	27	F	F
+servis yap	63	T	F
+seslen	95	F	F
+seslendir	16	T	F
+sevdir	14	T	F
+sevil	55	F	T
+sevin	113	F	F
+sevindir	32	T	F
+seviş	51	F	F
+sevk et	21	T	F
+seyahat et	16	F	F
+seyret	243	T	F
+sez	27	T	F
+sezinle	16	T	F
+sıcak ol	23	F	F
+sıçra	44	F	F
+sıfırla	18	T	F
+sığ	48	F	F
+sığdır	15	T	F
+sığın	70	F	F
+sık	95	T	F
+sıkıl	126	F	F
+sıkış	71	F	F
+sıkıştır	42	T	F
+sıkıştırıl	14	F	T
+sına	15	T	F
+sınırla	35	T	F
+sınırlan	9	F	T
+sınırlandır	16	T	F
+sırala	78	T	F
+sıralan	54	F	T
+sırıt	22	F	F
+sıva	14	T	F
+sıvan	9	F	T
+sıyır	12	T	F
+sıyrıl	35	F	T
+sız	54	F	F
+sızla	13	F	F
+sil	95	T	F
+silin	58	F	T
+silk	10	T	F
+silkin	12	F	F
+simgele	22	T	F
+sindir	30	T	F
+sindiril	11	F	T
+sinirlen	32	F	F
+soğu	58	F	F
+soğut	25	T	F
+sohbet et	34	F	F
+sok	220	T	F
+sokul	79	F	T
+sol	22	F	F
+solu	26	T	F
+sonuçlan	38	F	F
+sor	976	T	F
+sorgula	49	T	F
+sorgulan	17	F	T
+sorul	69	F	T
+soruştur	34	T	F
+soy	55	T	F
+soyul	27	F	T
+soyun	43	F	F
+soyutla	18	T	F
+sök	43	T	F
+sökül	13	F	T
+sön	60	F	F
+söndür	24	T	F
+söv	10	F	F
+söylet	10	T	F
+söz et	190	F	F
+söz konusu ol	42	F	F
+söz sahibi ol	10	F	F
+suçlan	19	F	T
+sulan	9	F	T
+sulandır	15	T	F
+sunul	168	F	T
+sus	135	F	F
+susa	12	F	F
+sustur	15	T	F
+süpür	20	T	F
+sür	560	T	F
+süregel	12	F	F
+sürükle	48	T	F
+sürüklen	23	F	T
+sürül	104	F	T
+sürün	33	F	F
+süs	26	T	F
+süsle	53	T	F
+süslen	20	F	T
+süz	69	T	F
+süzül	49	F	T
+şahit ol	20	F	F
+şart ol	13	F	F
+şaşıl	12	F	T
+şaşır	160	F	F
+şaşırt	41	T	F
+şekillen	23	F	T
+şekillendir	19	T	F
+şikâyet et	35	T	F
+şiş	33	F	F
+şişir	10	T	F
+şişmanla	12	F	F
+şüphelen	10	F	F
+tâbi ol	21	F	F
+tahammül et	20	F	F
+tahmin et	82	T	F
+tahrik et	11	T	F
+tahrip et	14	F	F
+tahsil et	23	T	F
+tahsis et	20	T	F
+tak	142	T	F
+takdir et	24	T	F
+takıl	186	F	T
+takın	23	T	F
+takip et	123	T	F
+taklit et	17	T	F
+taktır	12	T	F
+talep et	53	T	F
+tamamla	164	T	F
+tamamlan	105	F	T
+tamir et	24	T	F
+tanık ol	41	F	F
+tanımla	90	T	F
+tanımlan	64	F	T
+tanın	103	F	F
+tanış	127	F	F
+tanıştır	19	T	F
+tanıt	89	T	F
+tanıtıl	23	F	T
+tap	11	F	F
+tarif et	27	T	F
+tart	10	T	F
+tartış	137	T	F
+tartışıl	95	F	T
+tasarla	34	T	F
+tasarlan	58	F	T
+tasarruf et	10	F	F
+tasla	11	T	F
+taşı	636	T	F
+taşın	125	F	F
+tat	39	T	F
+tatlandır	12	T	F
+tatmin et	32	T	F
+tavsiye et	62	T	F
+tayin et	11	T	F
+tebrik et	11	F	F
+tedavi et	37	T	F
+tedavi ol	10	F	F
+tehdit et	32	T	F
+tehlikeli ol	14	F	F
+teklif et	18	T	F
+tekrar et	30	T	F
+tekrarla	89	T	F
+tekrarlan	35	F	T
+telâffuz et	13	T	F
+telâşlan	14	F	F
+telefon et	37	T	F
+temas et	24	F	F
+temin et	56	T	F
+temizle	111	T	F
+temizlen	83	F	T
+temsil et	70	T	F
+tep	11	T	F
+tepin	10	F	F
+tepki	203	F	F
+terbiye et	10	T	F
+tercih et	219	T	F
+tereddüt et	11	F	F
+terk edil	46	F	T
+terk et	112	T	F
+terle	27	F	F
+teslim et	76	T	F
+teslim ol	18	F	F
+tespit et	11	T	F
+teşekkül et	10	F	F
+teşekkür et	98	F	F
+teşkil et	45	T	F
+teşvik et	51	T	F
+tıka	26	T	F
+tıkan	33	F	F
+tıkla	21	T	F
+tıklat	10	T	F
+tırman	62	F	F
+titre	92	F	F
+titret	18	T	F
+toparla	32	T	F
+toparlan	26	F	T
+topla	242	T	F
+toplan	196	F	T
+tuttur	51	T	F
+tutuklan	15	F	T
+tutul	236	F	T
+tutun	53	F	F
+tutuş	25	F	F
+tutuştur	20	T	F
+tüken	59	F	F
+tüket	148	T	F
+tükür	23	F	F
+tüt	12	F	F
+ucuzla	9	F	F
+uç	118	F	F
+uçur	18	T	F
+uçuş	14	F	F
+uğrat	28	F	F
+uğulda	12	F	F
+uğurla	16	T	F
+ulan	49	F	F
+ulaş	494	F	F
+ulaşıl	64	F	T
+ulaştır	69	T	F
+um	93	T	F
+umul	12	F	T
+umursa	18	T	F
+unut	426	T	F
+unuttur	13	T	F
+unutul	108	F	T
+usan	18	F	F
+utan	72	F	F
+uy	228	F	F
+uyan	151	F	F
+uyandır	87	T	F
+uyar	118	T	F
+uyarıl	33	F	T
+uyarlan	9	F	T
+uydur	76	T	F
+uygula	420	T	F
+uygun ol	131	F	F
+uyu	264	F	F
+uyukla	11	F	F
+uyul	21	F	T
+uyuş	13	F	F
+uza	77	F	F
+uzaklaş	123	F	F
+uzaklaştır	40	T	F
+uzan	218	F	F
+uzat	179	T	F
+uzatıl	26	F	T
+uzlaş	15	F	F
+uzmanlaş	17	F	F
+üfle	26	T	F
+ünlen	11	F	T
+üre	21	F	F
+üret	273	T	F
+üretil	181	F	T
+ürk	25	F	F
+ürküt	11	T	F
+ürper	31	F	F
+üstele	12	F	F
+üstlen	92	T	F
+üşen	11	F	F
+üşü	39	F	F
+ütüle	15	T	F
+üz      000     T       F
+üzül	124	F	F
+vaad et	12	T	F
+var et	10	F	F
+var ol	97	F	F
+varıl	35	F	T
+varsay	46	T	F
+vazgeç	135	F	F
+vazgeçil	81	F	T
+veda et	17	F	F
+vedalaş	10	F	F
+vefat et	10	F	F
+vidala	11	T	F
+vidalan	9	F	T
+vurgula	130	T	F
+vurul	48	F	T
+yadırga	31	T	F
+yağ	66	F	F
+yağdır	11	T	F
+yağlan	10	F	T
+yak	216	T	F
+yakala	200	T	F
+yakalan	126	F	T
+yakıl	27	F	T
+yakın	35	F	F
+yakınlaş	14	F	F
+yakış	82	F	F
+yakıştır	24	T	F
+yaklaş	257	F	F
+yaklaşıl	12	F	T
+yaklaştır	20	T	F
+yala	21	T	F
+yalvar	36	F	F
+yanaş	43	F	F
+yanıl	61	F	T
+yanıtla	36	T	F
+yankılan	22	F	F
+yansı	106	F	F
+yansıt	105	T	F
+yansıtıl	16	F	T
+yap	5189	T	F
+yapış	55	F	F
+yapıştır	42	T	F
+yapıştırıl	13	F	T
+yaptır	174	T	F
+yaptırıl	15	F	T
+yar	16	F	F
+yara	146	F	F
+yarala	15	T	F
+yaralan	38	F	F
+yaran	11	F	F
+yararlan	239	F	F
+yararlı ol	45	F	F
+yarat	496	T	F
+yaratıl	82	F	T
+yardım et	104	F	F
+yardımcı ol	178	F	F
+yargıla	23	T	F
+yargılan	19	F	F
+yarış	69	F	F
+yasa	233	F	F
+yasak ol	13	F	F
+yasakla	28	T	F
+yasaklan	38	F	T
+yaslan	21	F	T
+yaşa	1442	T	F
+yaşanıl	20	F	T
+yaşat	59	T	F
+yaşlan	46	F	F
+yatır	93	T	F
+yatırıl	34	F	T
+yatırım yap	43	F	F
+yatış	15	F	F
+yatıştır	16	T	F
+yavaşla	15	F	F
+yavaşlat	13	T	F
+yay	69	T	F
+yaygınlaş	59	F	F
+yaygınlaştır	11	T	F
+yayıl	170	F	T
+yayımla	110	T	F
+yayla	16	F	F
+yazdır	28	T	F
+yedir	32	T	F
+yeğle	34	T	F
+yelten	12	F	F
+yemin et	26	F	F
+yenil	60	F	T
+yenilen	60	F	T
+yer et	12	F	F
+yerleş	123	F	F
+yerleştir	137	T	F
+yerleştiril	107	F	T
+yeşer	15	F	F
+yetin	87	F	F
+yetiş	125	F	F
+yetiştir	97	T	F
+yetiştiril	44	F	T
+yığ	11	T	F
+yığıl	31	F	T
+yık	65	T	F
+yıka	130	T	F
+yıkan	92	F	T
+yıkıl	103	F	T
+yıllan	9	F	F
+yıpran	35	F	F
+yıprat	15	T	F
+yırt	27	T	F
+yırtıl	15	F	T
+yinele	35	T	F
+yinelen	26	F	T
+yit	14	F	F
+yitir	131	T	F
+yoğrul	15	F	T
+yoğunlaş	51	F	F
+yoğunlaştır	17	T	F
+yoğur	25	T	F
+yok et	138	T	F
+yok ol	100	F	F
+yokla	28	T	F
+yollan	17	F	T
+yor	39	T	F
+yorul	73	F	F
+yorumla	50	T	F
+yorumlan	16	F	T
+yozlaş	17	F	F
+yönel	135	F	F
+yönelt	54	T	F
+yöneltil	13	F	T
+yönet	132	T	F
+yönetil	41	F	T
+yönlendir	102	T	F
+yudumla	19	T	F
+yum	38	T	F
+yumuşa	39	F	F
+yumuşat	18	T	F
+yut	43	T	F
+yutkun	19	F	F
+yuttur	10	T	F
+yuvarla	10	T	F
+yuvarlan	27	F	T
+yücelt	11	T	F
+yükle	53	T	F
+yüklen	63	F	T
+yüksel	211	F	F
+yükselt	80	T	F
+yükseltil	26	F	T
+yürüt	97	T	F
+yürütül	53	F	T
+zam yap	17	F	F
+zannet	80	F	F
+zayıfla	35	F	F
+zayıflat	18	T	F
+zedele	14	T	F
+zedelen	16	F	T
+zehirlen	9	F	T
+zengin ol	10	F	F
+zenginleş	15	F	F
+zenginleştir	26	T	F
+zıpla	24	F	F
+zikret	15	T	F
+ziyaret et	42	T	F
+zorla	104	T	F
+zorlan	87	F	T
+zorlaş	16	F	F
+zorlaştır	19	T	F

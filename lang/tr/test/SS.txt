@@ -1,0 +1,52 @@
+    gittim
+    ben de geldim //kuvvetlendirme edatları problemli
+    biz gelişen bir ülkeyiz
+    ben gittim
+    ben geldin
+    sen geldim
+    sen geldin
+    o geldi
+    biz gelince onlar geldi
+    biz geldim
+    siz geldik
+    siz geldiniz
+    onlar geldiler
+    onlar geldi
+    onlar geldim
+    onlar geldin
+    onlar geldik
+    onlar geldiniz
+    gittim ben
+    eve gittim
+    gittim eve
+    ben eve gittim
+    eve ben gittim
+    ben gittim eve
+    ben izin verdim
+    Bin yıldan uzun süren bir gecenin bestesidir bu
+    eve gittim ben bugün
+    bu bir denemedir // Morfolojik çözümleyicinin ve POS tagger'ın önemi adına güzel bir örnek
+    müdür müdür müdür // Bunu sununmda kullanalım :)
+    Tezimi bitirmeme az kaldı //az kaldı birleşik fiil ya da zarf olmalı
+    yağız atlar kişnedi
+    bayram ufukta gün bitincedir
+    Cenap Şahabettin çocukluğumdan beri sevdiğim bir şairdir
+    Fatih'in İstanbul'u fethettiği yaştasın // NC -> JP kuralı olmadığından çalışmıyor.
+    Sahipsiz olan memleketin batması haktır //
+    seni ancak bu sabah anlıyorum // "bu sabah" sıfat tamlaması ama zarf görevinde, bunu CFG ile anlayamayız. JC->AP gibi bir kural ise herşeyi karıştırabilir.   
+    onlar her yerde karşısındaydılar
+    onlar karşısındaydılar
+    karşısındaydılar
+    oradalar
+    oradadır
+    hiçbir şey düşünmüyordu // bu da güzel bir örnek, işin zorluğunu göstermek bakımından
+    Bana düşmez can vermek yumuşak bir yatakta // 38. parse doğru
+    Ben bu kaldırımların emzirdiği çocuğum // Bulamıyor üzerinde durmak lazım
+    Kırmızı kiremitli, beyaz badanalı evleri vardır
+    çok istedim
+nasıl böyle bir imanı boğar
+    ben ağlarken sen gülüyordun
+    araba görüldü
+    arabası geldi
+    halası getirdi
+

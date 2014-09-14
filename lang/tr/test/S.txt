@@ -1,0 +1,64 @@
+    ben bu evde oturuyorum
+ben eve gittim
+    gitti
+    ben eve gittim, geldim
+    Doğruldu
+    Titredi
+    Zordur
+    Yorgunum
+    Yakalamışlar
+    düşmanlar çocuğu yakalamış
+    Zeynep bu romanı okudu
+    kitabı geldi
+    kitabı okudu
+    hava durgundu
+    bugün hava durgundu // Bugün hava çok durgundu dediğimiz vakit ikinci bir zarfa müsaade etmez sistem
+    Muayene odasının kapısı açılır
+    geldim ama gittim
+    gelmem ile gitmem bir oldu
+    gel ki gidelim
+    gerildim, gerildim ve vurdum
+    istedim, çok istedim ama yapamadım
+    ben eve gittim ve geri geldim
+    evde yok
+    öyle değil
+    değil midir
+    var mıdır?
+    yok mudur?
+    ismin nedir // "ismin ne" olmaz
+    nedir ismin
+    kim o
+    kimdir o
+    kimsin sen
+    sen kimsin
+    ben kimim
+    o kimdir
+    sen kimsin, ben kimim ve o kimdir
+    hangi balıktır
+    hangisidir
+    kaç kişi var
+    nerede
+    nerededir // NP -> noun + loc kuralı yok
+    neresi
+    neresidir
+    neredir
+    kimledir // sorunlu
+    kiminledir //sorunlu
+    burası neresidir
+    nasıl oldu
+    nasıldır // AP + ux
+    nedendir
+    niçindir
+    neden gelmedin
+    kim geldi
+    kimdi o
+    kimdi o adam
+
+
+
+
+
+
+
+
+

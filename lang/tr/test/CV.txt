@@ -1,0 +1,27 @@
+    dost olmaz
+    dost ol
+    dost oldu
+    dost oldum
+    dost olmuş
+    dost olmuşum
+    dost oluyor
+    yok oluyorum
+    yok olacak
+    devam ediyordu
+kahvaltı etmemiştim
+    karar kıldık
+    sorumlu kılıyor
+    duymaz oldum
+    kazanmış bulunuyor
+    tahminde bulunuyoruz // de ekinden dolayı sorunlu
+    mesut olacağız
+yakılmaz oldu
+gelmez oldu
+bakar oldu
+tamamlanmış oldu
+konuşacak oldu
+
+
+
+
+

@@ -1,0 +1,167 @@
+// This file contatins hand made analyses for some words that current analyzers can not analyze correctly.
+benim               ben/pron+im/gen             ben/pron+im/p1s
+senin               sen/pron+in/gen
+onun                o/pron+nun/gen
+bizim               biz/pron+im/gen
+sizin               siz/pron+in/gen
+onların             onlar/pron+ın/gen
+benimki             ben/pron+im/gen+ki/rel
+onunki              o/pron+nun/gen+ki/rel
+onlarınki           onlar/pron+ın/gen+ki/rel
+beni                ben/pron+i/acc
+seni                sen/pron+i/acc
+onu                 o/pron+nu/acc
+bizi                biz/pron+i/acc
+sizi                siz/pron+i/acc
+onları              onlar/pron+ı/acc
+bunu                bu/pron+nu/acc
+şunu                şu/pron+nu/acc
+bu                  bu/pron                     bu/adj
+şu                  şu/pron                     şu/adj
+o                   o/pron                      o/adj
+günleri             gün/noun+ler/plu+i/p3s
+hava                hava/noun                   //hav+yA şeklinde de çözümlüyor
+durgundu            durgun/adj+du/aux           //durgun'u "durgu/noun n/p2s çözümlüyor ve sadece durgun'u girmek olmuyor
+düğme               düğme/noun
+düğmesi             düğme/noun+si/p3s           //sadece düğme için yazmamız yeterli olmuyor. Yine aynı neden :(
+evin                ev/noun+in/gen
+kapı                kapı/noun
+sorumlu             sorumlu/noun
+şulesi              şule/noun+si/p3s
+ekmek               ekmek/noun
+sabahlar            sabah/noun+lar/plu
+kimsin              kim/noun+sin/2sg
+kimim               kim/noun+im/1sg
+kimdir              kim/noun+dir/aux
+herkesi             herkes/pron+i/acc
+seni                sen/pron+i/acc
+hiçbir              hiçbir/adj
+
+
+
+//Sıfatlar
+yeni                yeni/adj
+bütün               bütün/adj
+çifte               çifte/adj
+acı                 acı/adj
+verimli             verimli/adj
+köhne               köhne/adj
+dost                dost/adj                    dost/noun
+beyaz               beyaz/adj
+siyah               siyah/adj
+soğuk               soğuk/adj
+sadık               sadık/adj
+küçük               küçük/adj
+kenar               kenar/adj           kenar/noun      //şehrin kenar evleri
+yaşlı               yaşlı/adj
+böyle               böyle/adj                   böyle/adv
+öyle                öyle/adv
+vefasız             vefasız/adj
+zalim               zalim/adj
+ulvi                ulvi/adj
+her                 her/adj
+
+//Zarflar
+gecenin             gece/noun+nin/gen           //Zemberek gece'yi yanlızca zaman zarfı olarak çözümlüyor.
+                                                //gece  gece/adv    gece/noun gibi bir giriş "gecenin" için çalışmıyor
+yılı                yıl/noun+ı/p3s              //Yukarıdaki açıklama ile aynı
+günler              gün/noun+ler/plu
+en                  en/adv
+iyice               iyice/adv
+gece                gece/noun                   gece/adv
+gün                 gün/noun
+çok                 çok/adv
+
+//Ünlemler
+hey                 hey/intj
+Hey                 hey/intj
+ey                  ey/intj
+Ey                  ey/intj
+be                  be/intj
+bre                 bre/intj
+a                   a/intj
+
+//Edatlar
+için                için/posp
+rağmen              rağmen/posp
+doğru               doğru/posp              doğru/adj
+dolayı              dolayı/posp
+
+//Bağlaçlar
+ve                  ve/conj
+ki                  ki/conj
+veya                veya/conj
+ile                 ile/conj                   ile/posp
+değil               değil/conj                 değil/pre
+hem                 hem/conj2
+//ne                  ne/conj2
+da                  da/2conj
+de                  de/2conj                   de/verb
+ancak               ancak/conj                 ancak/adv
+
+//Ünvanlar
+Bey                 bey/ttl
+Hanım               hanım/ttl
+Sultan              sultan/ttl
+Paşa                paşa/ttl
+Hoca                hoca/ttl
+Aşık                aşık/ttl
+
+//Şahıs İsimleri
+Reşit               reşit/prop
+Beyatlı             beyatlı/prop
+Kurt                kurt/prop                   kurt/noun
+Şahabettin          Şahabettin/prop
+Cenap               Cenap/prop
+
+
+//Edilgen Fiiller  - Bu fiillerin bir kısmı doğrudan sözlükte, bir kısmı ise değil.
+kurul               kurul/verb                  kurul/noun
+
+
+
+//Noktalama İşaretleri
+,                   ,/cm
+.                   ./pr
+!                   !/ex
+'                   '/ap
+?                   ?/qu
+
+//İsim Cümlesi
+var                 var/pre
+yok                 yok/pre
+
+//İkilemeler
+kılık               kılık/noun                  kılık/base
+kıyafet             kıyafet/noun                kıyafet/redup
+
+
+
+//Zembereğin hiç çözemedikleri
+bitincedir          bit/verb+ince/-UncA+dir/aux
+
+
+//Sayılar
+kaç                 kaç/adj                 kaç/verb
+sıfır               bir/adj
+bir                 bir/num                 bir/adj
+iki                 iki/num                 iki/adj
+üç                  üç/num                  üç/adj
+dört                dört/num                dört/adj
+beş                 beş/num                 beş/adj
+altı                altı/num                altı/adj
+yedi                yedi/num                yedi/adj
+sekiz               sekiz/num               sekiz/adj
+dokuz               dokuz/num               dokuz/adj
+on                  on/num                  on/adj
+yirmi               yirmi/num               yirmi/adj
+otuz                otuz/num                otuz/adj
+kırk                kırk/num                kırk/adj
+elli                elli/num                elli/adj
+altmış              altmış/num              altmış/adj
+yetmiş              yetmiş/num              yetmiş/adj
+seksen              seksen/num              seksen/adj
+doksan              doksan/num              doksan/adj
+yüz                 yüz/num                 yüz/adj
+bin                 bin/num                 bin/adj
+milyon              milyon/num              milyon/adj

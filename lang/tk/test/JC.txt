@@ -1,0 +1,35 @@
+##### Türkmence Sıfat tamlamaları #####
+    salkın  saaya // serin gölge
+    tolkunlı deñiz  //dalgalı deniz
+
+
+# Sıfat fiil ile yapılan Sıfat tamlamaları
+    gülen ayal  //gülen kadın
+    ağlan çağa  //ağlayan çocuk
+    aydılmadık söz //söylenmemiş söz
+    gülyään gız        //gülmekte olan kız
+    geplemeyään çağa  //konuşmayan çocuk
+    akar suv            //akar su
+    görer göz           //görür göz
+    öçmez ot            //sönmez ateş
+    bitmez yara         //bitmez yara
+    yazılcak kitap          //yazılacak kitap
+    işlencek iş             //yapılacak iş
+    uklamacak çağa          //uyumayacak çocuk
+
+# Türkçeden farklı durumları içeren örnekler. aslında bunlar sıfar tamlamaları.
+    içen suvum  //içtiğim su
+    okamadık kitabım   //okumadığım kitap
+    gidyään yerim      //gitmekte olduğum yer
+    bercek pulum           //vereceğim para
+
+
+bizi görmedik adam  //bizi görmeyen insan
+dil bilmez nöker    //dil bilmeyen hizmetçi
+işe geçcek adamlar  //işe gidecek insanlar
+
+
+
+
+
+
