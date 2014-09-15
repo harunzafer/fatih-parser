@@ -70,7 +70,7 @@ public class FatihParser {
         //Parser parser = new Parser(Language.TR);
         //List<ParsedSentence> parsedSentences = parser.parse("Bu bir denemedir");
         //printParsedSentences(parsedSentences);
-        runTest(NonTerminal.S, Language.TK);
+        runTest(NonTerminal.S, Language.TR);
         //runTest(NonTerminal.S, Language.TK);
 
 

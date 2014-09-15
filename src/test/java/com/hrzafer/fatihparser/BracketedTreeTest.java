@@ -4,19 +4,18 @@
  */
 package com.hrzafer.fatihparser;
 
-import com.hrzafer.fatihparser.BracketedTree;
-import com.hrzafer.fatihparser.restriction.ValidationRule;
+import org.junit.Test;
+
 import java.util.ArrayList;
 import java.util.List;
-import org.junit.Test;
-import static org.junit.Assert.*;
+
+import static org.junit.Assert.assertEquals;
 
 /**
- *
  * @author hrzafer
  */
 public class BracketedTreeTest {
-    
+
 
     /**
      * Test of getNonTerminal method, of class BracketedTree.
@@ -29,7 +28,7 @@ public class BracketedTreeTest {
         String expResult = "git";
         String result = BracketedTree.getNonTerminal(tree, category);
         assertEquals(expResult, result);
-        
+
         category = "tense";
         expResult = "ti";
         result = BracketedTree.getNonTerminal(tree, category);
@@ -84,20 +83,20 @@ public class BracketedTreeTest {
         String expResult = "[SS[Pre[VP[VP[verb[git]]][tense[ti]]]]]";
         String result = BracketedTree.removeCategory(tree, category);
         assertEquals(expResult, result);
-        
+
         tree = "[S[SS[Pre[VP[VP[verb[git]]][tense[ti]]]]]]";
         category = "SS";
         expResult = "[S[Pre[VP[VP[verb[git]]][tense[ti]]]]]";
         result = BracketedTree.removeCategory(tree, category);
         assertEquals(expResult, result);
-        
+
         tree = "[S[SS[Pre[VP[VP[verb[git]]][tense[ti]]]]]]";
         category = "VP";
         expResult = "[S[SS[Pre[verb[git]][tense[ti]]]]]";
         result = BracketedTree.removeCategory(tree, category);
         assertEquals(expResult, result);
     }
-    
+
     /**
      * Test of removeCategory method, of class BracketedTree.
      */
@@ -124,12 +123,12 @@ public class BracketedTreeTest {
         int expResult = 39;
         int result = BracketedTree.findEndIndex(tree, beginIndex);
         assertEquals(expResult, result);
-        
+
         beginIndex = 0; //category "S"
         expResult = 41;
         result = BracketedTree.findEndIndex(tree, beginIndex);
         assertEquals(expResult, result);
-        
+
         beginIndex = 2;//category "SS"
         expResult = 40;
         result = BracketedTree.findEndIndex(tree, beginIndex);
@@ -150,7 +149,7 @@ public class BracketedTreeTest {
         int expResult = 12;
         int result = BracketedTree.findBeginIndex(tree, category, fromIndex);
         assertEquals(expResult, result);
-        
+
     }
 
     /**
@@ -164,12 +163,12 @@ public class BracketedTreeTest {
         int expResult = 0;
         int result = BracketedTree.findBeginIndex(tree, category);
         assertEquals(expResult, result);
-        
+
         category = "Pre";
         expResult = 5;
         result = BracketedTree.findBeginIndex(tree, category);
         assertEquals(expResult, result);
-        
+
     }
 
     /**
@@ -185,13 +184,8 @@ public class BracketedTreeTest {
         expResult.add(12);
         List result = BracketedTree.findBeginIndexes(tree, category);
         assertEquals(expResult, result);
-        
+
     }
 
-  
 
-
-    
-
-    
 }
