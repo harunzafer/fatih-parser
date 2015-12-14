@@ -1,5 +1,8 @@
 package com.hrzafer.fatihparser;
 
+import com.hrzafer.fatihparser.analyzer.SentenceAnalyzer;
+import com.hrzafer.fatihparser.analyzer.SentenceAnalyzerBuilder;
+import com.hrzafer.fatihparser.structure.Sentence;
 import com.hrzafer.fatihparser.util.TableFileReader;
 import edu.osu.ling.pep.PepException;
 import java.io.FileNotFoundException;
@@ -70,8 +73,16 @@ public class FatihParser {
         //Parser parser = new Parser(Language.TR);
         //List<ParsedSentence> parsedSentences = parser.parse("Bu bir denemedir");
         //printParsedSentences(parsedSentences);
-        runTest(NonTerminal.S, Language.TR);
+        //runTest(NonTerminal.S, Language.TR);
         //runTest(NonTerminal.S, Language.TK);
+        
+        String rawSentence = "Zeynep kadına karşı çıkmaya ve çok fazla sigara içmeye başlar";
+        SentenceAnalyzer sentenceAnalyzer = SentenceAnalyzerBuilder.build(Language.TR);
+        List<Sentence> sentences = sentenceAnalyzer.analyze(rawSentence);
+        for (Sentence sentence : sentences) {
+            System.out.println(sentence);
+        }
+        
 
 
 

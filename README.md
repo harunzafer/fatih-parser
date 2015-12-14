@@ -3,7 +3,7 @@ fatih-parser
 
 A Generic Syntactic Parser for Turkish and other Turkic Languages. 
 
-A demo can be seen [here](http://fatih-parser-web.herokuapp.com/).
+A demo can be seen [here](http://fatihparser.herokuapp.com/).
 
 ###Maven Usage
 
